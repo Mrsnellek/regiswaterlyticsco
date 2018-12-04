@@ -1,0 +1,99 @@
+---
+title: "Leak Detection N-Grams"
+author: "Kat Bardash"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message=FALSE)
+library(tidytext)
+library(ggplot2)
+```
+
+# Purpose
+- The purpose of this file is conduct text analysis on the leak_detection_field_technology column in the foundational_06a_loss_and_leak_detection file. Distributions of time between testing and age to replace small meters in years.
+- This analysis creates token, bi-grams, tri-grams, and four-grams of this text field.
+- The data can be found http://cowaterefficiency.com/unauthenticated_home with permission. Once in the portal, all report years (2013-2017) were selected as well as all water providers.
+
+## Recommendations
+- Water detection technology could be a useful factor to correlate and predict with water loss. The current input method does not easily allow for this type of analysis.
+- Our suggestion is to create a drop-down menu for this particular part of the reporting with the applicable leak detection technologies. 
+
+```{r}
+# read in data
+found_6a_lossleak <- read.csv("EffDataPortal_Output_User690_20181112192716/foundational/foundational_06a_loss_and_leak_det.csv", stringsAsFactors = FALSE)
+hist(found_6a_lossleak$time_between_tests_largemeters_years, main="Distribution of Years Between Tests For Large Meters")
+hist(found_6a_lossleak$replace_age_small_meters_years, main="Distribution of Years Between Tests For Small Meters")
+```
+
+###  Text Analysis of Leak Detection Type with N-grams
+```{r}
+
+leaks <- found_6a_lossleak
+head(leaks[order(leaks$ce_annual_ndx),], n=3)
+
+leaks_short <- leaks[,c(1,9 )]
+head(leaks_short, n=3)
+library(dplyr)
+library(tidytext)
+leaks_short2<- leaks_short %>% unnest_tokens(word, leak_detection_field_technology)
+
+# get rid of stop words
+tidy_leaks <- leaks_short2 %>% anti_join(stop_words)
+
+
+```
+
+### Most used Words
+- These are the top 20 most common words typed into the leak detection technology field. 
+```{r}
+
+head(tidy_leaks %>% count(word, sort=TRUE), n=20)
+
+```
+
+###  Finding n-grams
+- These are the top 10 bi, tri, and 4-grams for the leak detection technology column.
+```{r}
+
+#2-gram
+tidy_bigram <- leaks_short %>% unnest_tokens(bigram,leak_detection_field_technology, token="ngrams", n=2)
+bill10 <- head(tidy_bigram %>% count(bigram, sort=TRUE), n=10)
+# remove NA ( reorder)
+bill10 <- bill10[!is.na(bill10$bigram),]
+bill10 <- bill10 %>% mutate(bigram=reorder(bigram, n))
+
+   ggplot(bill10, aes(bigram, n))+
+  geom_col()+
+  coord_flip()+
+  ggtitle("Top 8 Bigrams From Leak Detection Field Technology")
+```
+```{r}
+#3-gram
+tidy_trigram <- leaks_short %>% unnest_tokens(trigram,leak_detection_field_technology, token="ngrams", n=3)
+tri10 <- head(tidy_trigram %>% count(trigram, sort=TRUE), n=10)
+
+# remove NA ( reorder)
+tri10 <- tri10[!is.na(tri10$trigram),]
+tri10 <- tri10 %>% mutate(trigram=reorder(trigram, n))
+
+   ggplot(tri10, aes(trigram, n))+
+  geom_col()+
+  coord_flip()+
+  ggtitle("Top 9 Trigrams From Leak Detection Field Technology")
+```
+#4-gram
+
+```{r}
+tidy_fourgram <- leaks_short %>% unnest_tokens(fourgram,leak_detection_field_technology, token="ngrams", n=4)
+four10 <- head(tidy_fourgram %>% count(fourgram, sort=TRUE), n=10)
+
+# remove NA ( reorder)
+four10 <- four10[!is.na(four10$fourgram),]
+four10 <- four10 %>% mutate(fourgram=reorder(fourgram, n))
+
+   ggplot(four10, aes(fourgram, n))+
+  geom_col()+
+  coord_flip()+
+  ggtitle("Top 9 Fourgrams From Leak Detection Field Technology")
+```

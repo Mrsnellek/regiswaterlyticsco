@@ -1,0 +1,386 @@
+ce_annual_ndx,water_type_index,water_type,distributed_water,metered_water,calculated_loss,units
+1912,1,Potable Treated,14612000,13954800,657200,"Gallons, Thousands"
+1912,2,Non-potable Raw,358762,357741,1021,"Gallons, Thousands"
+1912,3,Non-potable Re-use,344000,373375,-29375,"Gallons, Thousands"
+1913,1,Potable Treated,645870000,600114000,45756000,Gallons
+1916,1,Potable Treated,436.961,397.744,39.217,"Gallons, Millions"
+1916,2,Non-potable Raw,117.45,117.445,0.00499725,"Gallons, Millions"
+1916,3,Non-potable Re-use,204.68,200.836,3.84399,"Gallons, Millions"
+1920,1,Potable Treated,6157,8853.36,-2696.36,Acre-feet
+1920,2,Non-potable Raw,392,313.57,78.43,Acre-feet
+1920,3,Non-potable Re-use,1919,1806,113,Acre-feet
+1921,1,Potable Treated,14454,14454.2,-0.200195,Acre-feet
+1922,1,Potable Treated,4237200000,3451360000,785840000,Gallons
+1924,1,Potable Treated,2761350,2436630,324720,"Gallons, Thousands"
+1924,2,Non-potable Raw,1233,1233,0,"Gallons, Thousands"
+1925,1,Potable Treated,8.61071,8158020,-8158010,"Gallons, Thousands"
+1925,2,Non-potable Raw,11994,11995,-1,Acre-feet
+1926,1,Potable Treated,472067,434949,37118,"Gallons, Thousands"
+1927,1,Potable Treated,9816.1,9816.1,0,Acre-feet
+1929,1,Potable Treated,1338.26,1082.37,255.89,"Gallons, Millions"
+1930,1,Potable Treated,758099,1376080,-617981,CCF (100 cubic feet)
+1931,,**SERVICE CONNECTIONS NOT SET UP**,,,,
+1932,1,Potable Treated,604,569.249,34.751,"Gallons, Millions"
+1932,2,Non-potable Raw,0,0,0,Acre-feet
+1934,1,Potable Treated,2240,2245.72,-5.71997,"Gallons, Millions"
+1935,1,Potable Treated,4433930,4033830,400097,"Gallons, Thousands"
+1935,2,Non-potable Raw,104185,104185,0,"Gallons, Thousands"
+1935,3,Non-potable Re-use,81609,72872,8737,"Gallons, Thousands"
+1936,1,Potable Treated,5432980,4965710,467274,"Gallons, Thousands"
+1936,2,Non-potable Raw,81.6,81.6,0,Acre-feet
+1936,3,Non-potable Re-use,422940,444862,-21922,"Gallons, Thousands"
+1938,1,Potable Treated,57452200,55209200,2242970,"Gallons, Thousands"
+1938,2,Non-potable Raw,1097420,1097410,10,"Gallons, Thousands"
+1938,3,Non-potable Re-use,554090,554085,5,"Gallons, Thousands"
+1939,1,Potable Treated,2924,2668.72,255.28,Acre-feet
+1939,2,Non-potable Raw,,,,Acre-feet
+1939,3,Non-potable Re-use,,,,Acre-feet
+1940,1,Potable Treated,625281000,586044000,39237000,Gallons
+1941,1,Potable Treated,17631,15531,2100,Acre-feet
+1942,1,Potable Treated,1716.21,1519.7,196.51,"Gallons, Millions"
+1943,1,Potable Treated,1849230,24295,1824940,"Gallons, Thousands"
+1944,1,Potable Treated,753322,681448,71874.2,"Gallons, Thousands"
+1945,1,Potable Treated,6464870,900655,5564220,"Gallons, Thousands"
+1946,1,Potable Treated,1494,1010.66,483.34,"Gallons, Millions"
+1946,2,Non-potable Raw,223,,223,"Gallons, Millions"
+1948,1,Potable Treated,1443150,7,1443140,"Gallons, Thousands"
+1949,1,Potable Treated,1036200,1515550,-479350,"Gallons, Thousands"
+1949,2,Non-potable Raw,1532.5,,1532.5,Acre-feet
+1949,3,Non-potable Re-use,0,,0,"Gallons, Thousands"
+1950,1,Potable Treated,2426340,2289470,136865,"Gallons, Thousands"
+1950,2,Non-potable Raw,89234,83777,5457,"Gallons, Thousands"
+1951,1,Potable Treated,65750,59967,5783,Acre-feet
+1951,2,Non-potable Raw,5567,5569,-2,Acre-feet
+1951,3,Non-potable Re-use,3681,3680,1,Acre-feet
+1952,1,Potable Treated,632600000,578688000,53912000,Gallons
+1952,2,Non-potable Raw,0,,0,Gallons
+1953,1,Potable Treated,1619650,1489240,130410,"Gallons, Thousands"
+1953,2,Non-potable Raw,124.13,175.71,-51.58,Acre-feet
+1954,1,Potable Treated,921.16,690.94,230.22,"Gallons, Millions"
+1955,1,Potable Treated,1363.13,1235.94,127.19,"Gallons, Millions"
+1960,1,Potable Treated,5985280,5470820,514463,"Gallons, Thousands"
+1960,2,Non-potable Raw,96380,96379.9,0.0625,"Gallons, Thousands"
+1963,1,Potable Treated,1142.5,,1142.5,"Gallons, Millions"
+1966,1,Potable Treated,954806000,1782420000,-827614000,Gallons
+1967,1,Potable Treated,5138760,4048340,1090420,"Gallons, Thousands"
+1967,2,Non-potable Raw,0,,0,"Gallons, Thousands"
+1968,1,Potable Treated,1434320,1239450,194870,"Gallons, Thousands"
+1968,2,Non-potable Raw,175.42,175.42,0,Acre-feet
+1970,1,Potable Treated,1314480,1292230,22250,"Gallons, Thousands"
+1970,2,Non-potable Raw,513,513.5,-0.5,Acre-feet
+1971,1,Potable Treated,7406,6871.5,534.5,"Gallons, Millions"
+1972,1,Potable Treated,727872,659402,68470,"Gallons, Thousands"
+1975,1,Potable Treated,1085460000,1088540000,-3080060,Gallons
+1976,1,Potable Treated,2814,2151,663,"Gallons, Millions"
+1980,1,Potable Treated,14612800,14013400,599400,"Gallons, Thousands"
+1980,2,Non-potable Raw,314366,318788,-4422,"Gallons, Thousands"
+1980,3,Non-potable Re-use,344499,350170,-5671,"Gallons, Thousands"
+1981,1,Potable Treated,3040,2621.47,418.53,Acre-feet
+1981,2,Non-potable Raw,557.24,159.39,397.85,Acre-feet
+1981,3,Non-potable Re-use,344.63,344.62,0.0100098,Acre-feet
+1982,1,Potable Treated,3068,2574.79,493.21,Acre-feet
+1982,2,Non-potable Raw,294.1,140.87,153.23,Acre-feet
+1982,3,Non-potable Re-use,320,319.89,0.109985,Acre-feet
+1983,1,Potable Treated,2046.3,2046.1,0.200073,"Gallons, Millions"
+1983,2,Non-potable Raw,62.805,62.805,0,"Gallons, Millions"
+1984,1,Potable Treated,680046000,550577000,129469000,Gallons
+1986,1,Potable Treated,876,,876,"Gallons, Millions"
+1987,1,Potable Treated,722.28,677.302,44.978,"Gallons, Millions"
+1988,1,Potable Treated,564.013,942.855,-378.842,"Gallons, Millions"
+1988,2,Non-potable Raw,0,174.82,-174.82,Acre-feet
+1989,1,Potable Treated,9816.1,9816.1,0,Acre-feet
+1990,1,Potable Treated,1385220,,1385220,"Gallons, Thousands"
+1991,1,Potable Treated,545380000,542160000,3219580,Gallons
+1993,1,Potable Treated,2437,2658.97,-221.97,Acre-feet
+1993,2,Non-potable Raw,353,82.73,270.27,Acre-feet
+1995,1,Potable Treated,5108,4675.15,432.85,Acre-feet
+1995,2,Non-potable Raw,50,46.64,3.36,Acre-feet
+1997,1,Potable Treated,6120290,5492640,627653,"Gallons, Thousands"
+1997,2,Non-potable Raw,121696,121696,0.3125,"Gallons, Thousands"
+1998,1,Potable Treated,4849970,3998480,851494,"Gallons, Thousands"
+1998,2,Non-potable Raw,0,,0,"Gallons, Thousands"
+1999,1,Potable Treated,1331,1077,254,"Gallons, Millions"
+2000,1,Potable Treated,457,460.749,-3.74899,"Gallons, Millions"
+2001,1,Potable Treated,921.162,696.9,224.262,"Gallons, Millions"
+2002,1,Potable Treated,177563,169787,7776,Acre-feet
+2002,2,Non-potable Raw,1606,1604,2,Acre-feet
+2002,3,Non-potable Re-use,1898,1897,1,Acre-feet
+2003,1,Potable Treated,2089,1836,253,Acre-feet
+2004,1,Potable Treated,14987,14650,337,Acre-feet
+2005,1,Potable Treated,752508,686472,66036.4,"Gallons, Thousands"
+2006,1,Potable Treated,2743900,2586380,157525,"Gallons, Thousands"
+2006,2,Non-potable Raw,4160,4160,0,"Gallons, Thousands"
+2007,1,Potable Treated,1734880,1564740,170140,"Gallons, Thousands"
+2007,2,Non-potable Raw,175,,175,"Gallons, Millions"
+2008,1,Potable Treated,635052000,608661000,26391000,Gallons
+2009,1,Potable Treated,4190000000,3484340000,705660000,Gallons
+2009,2,Non-potable Raw,800,,800,Acre-feet
+2010,1,Potable Treated,8612730,7235920,1376810,"Gallons, Thousands"
+2010,2,Non-potable Raw,30009,11849,18160,Acre-feet
+2011,1,Potable Treated,69589,63549,6040,Acre-feet
+2011,2,Non-potable Raw,6517,5463,1054,Acre-feet
+2011,3,Non-potable Re-use,3401,3401,0,Acre-feet
+2014,1,Potable Treated,5410930,4949880,461053,"Gallons, Thousands"
+2014,2,Non-potable Raw,0,,0,Unspecified
+2014,3,Non-potable Re-use,490681,496523,-5842,"Gallons, Thousands"
+2015,1,Potable Treated,2.26768,0,2.26768,"Gallons, Millions"
+2016,1,Potable Treated,611000000,579404000,31596000,Gallons
+2016,2,Non-potable Raw,34,34.2,-0.200001,Gallons
+2017,1,Potable Treated,5582.69,5322,260.69,Acre-feet
+2017,2,Non-potable Raw,325.27,454,-128.73,Acre-feet
+2018,1,Potable Treated,727922,652303,75619,"Gallons, Thousands"
+2019,1,Potable Treated,-378,247482,-247860,"Gallons, Thousands"
+2020,1,Potable Treated,5607,9212,-3605,Acre-feet
+2020,2,Non-potable Raw,362,297.04,64.96,Acre-feet
+2020,3,Non-potable Re-use,2062,2157.65,-95.6499,Acre-feet
+2021,1,Potable Treated,2844110000,2740420000,103686000,Gallons
+2022,1,Potable Treated,4369280,4257320,111965,"Gallons, Thousands"
+2022,2,Non-potable Raw,123844,123844,0,"Gallons, Thousands"
+2022,3,Non-potable Re-use,24492,24492,0,"Gallons, Thousands"
+2023,1,Potable Treated,2387,2248.7,138.3,"Gallons, Millions"
+2023,2,Non-potable Raw,93,81.737,11.263,"Gallons, Millions"
+2024,1,Potable Treated,1635,2472.89,-837.89,"Gallons, Millions"
+2025,1,Potable Treated,17455,15528,1927,Acre-feet
+2026,1,Potable Treated,940996000,1727850000,-786854000,Gallons
+2028,1,Potable Treated,7433,5603,1830,"Gallons, Millions"
+2029,1,Potable Treated,444.376,402.154,42.222,"Gallons, Millions"
+2029,2,Non-potable Raw,42.613,,42.613,"Gallons, Millions"
+2029,3,Non-potable Re-use,128.42,195.866,-67.446,"Gallons, Millions"
+2030,1,Potable Treated,1421,1272190,-1270770,"Gallons, Thousands"
+2030,2,Non-potable Raw,163,153.762,9.23801,Acre-feet
+2031,1,Potable Treated,669318000,551498000,117820000,Gallons
+2032,1,Potable Treated,1477.03,1249.7,227.325,"Gallons, Millions"
+2033,1,Potable Treated,1125310000,1090510000,34800000,Gallons
+2034,1,Potable Treated,3246.63,1890,1356.63,"Gallons, Millions"
+2035,1,Potable Treated,2999550000,2809010000,190542000,Gallons
+2037,1,Potable Treated,1177820,810598,367220,"Gallons, Thousands"
+2047,1,Potable Treated,2209.3,2209.2,0.100098,"Gallons, Millions"
+2047,2,Non-potable Raw,62.5,62.5,0,"Gallons, Millions"
+2048,1,Potable Treated,15176900,14490200,686700,"Gallons, Thousands"
+2048,2,Non-potable Raw,351068,337095,13973,"Gallons, Thousands"
+2048,3,Non-potable Re-use,369424,366354,3070,"Gallons, Thousands"
+2049,1,Potable Treated,2903490,2638000,265486,"Gallons, Thousands"
+2049,2,Non-potable Raw,0,,0,"Gallons, Thousands"
+2050,1,Potable Treated,4979.1,4546.27,432.83,Acre-feet
+2050,2,Non-potable Raw,0.2,0.17,0.03,Acre-feet
+2051,1,Potable Treated,689904,643082,46822,"Gallons, Thousands"
+2052,1,Potable Treated,3001,1778,1223,Acre-feet
+2052,2,Non-potable Raw,999,1031,-32,Acre-feet
+2052,3,Non-potable Re-use,353,353.2,-0.200012,Acre-feet
+2053,1,Potable Treated,8307,7852,455,"Gallons, Thousands"
+2053,2,Non-potable Raw,39190,,39190,Acre-feet
+2053,3,Non-potable Re-use,12149,12149,0,Acre-feet
+2054,1,Potable Treated,13432,10923,2509,Acre-feet
+2054,2,Non-potable Raw,800,,800,Acre-feet
+2056,1,Potable Treated,1426290,959884,466406,"Gallons, Thousands"
+2056,2,Non-potable Raw,1547,,1547,Acre-feet
+2056,3,Non-potable Re-use,0,,0,Acre-feet
+2057,1,Potable Treated,5316,5370.86,-54.8599,Acre-feet
+2057,2,Non-potable Raw,274,279.55,-5.54999,Acre-feet
+2058,1,Potable Treated,662000000,652532000,9468030,Gallons
+2058,2,Non-potable Raw,0,0,0,Gallons
+2059,1,Potable Treated,174829,167756,7073,Acre-feet
+2059,2,Non-potable Raw,3408,3406,2,Acre-feet
+2059,3,Non-potable Re-use,2001,2002,-1,Acre-feet
+2060,1,Potable Treated,1384,1092.4,291.6,"Gallons, Millions"
+2061,1,Potable Treated,5117930,4139530,978401,"Gallons, Thousands"
+2061,2,Non-potable Raw,0,,0,"Gallons, Thousands"
+2063,1,Potable Treated,2896,2815.65,80.3501,"Gallons, Millions"
+2064,1,Potable Treated,6386250,5691930,694324,"Gallons, Thousands"
+2064,2,Non-potable Raw,130850,130850,-0.1875,"Gallons, Thousands"
+2065,1,Potable Treated,0,1261830,-1261830,"Gallons, Thousands"
+2065,2,Non-potable Raw,0,0,0,Acre-feet
+2066,1,Potable Treated,701424,660346,41078,"Gallons, Thousands"
+2067,1,Potable Treated,,,,Unspecified
+2068,1,Potable Treated,4787.48,,4787.48,"Gallons, Thousands"
+2069,1,Potable Treated,1251370,955793,295577,"Gallons, Thousands"
+2069,2,Non-potable Raw,1547,,1547,Acre-feet
+2069,3,Non-potable Re-use,,,,Unspecified
+2070,1,Potable Treated,17727,15904,1823,Acre-feet
+2071,1,Potable Treated,14990,14677,313,Acre-feet
+2072,1,Potable Treated,1614360,1800360,-185995,"Gallons, Thousands"
+2073,1,Potable Treated,4288710,4020480,268227,"Gallons, Thousands"
+2073,2,Non-potable Raw,190785,190785,0,"Gallons, Thousands"
+2073,3,Non-potable Re-use,0,,0,Unspecified
+2074,1,Potable Treated,66833,61296,5537,Acre-feet
+2074,2,Non-potable Raw,5200,5200,0,Acre-feet
+2074,3,Non-potable Re-use,3715,3715,0,Acre-feet
+2075,1,Potable Treated,971.98,685.2,286.78,"Gallons, Millions"
+2076,1,Potable Treated,5782,9130.59,-3348.59,Acre-feet
+2076,2,Non-potable Raw,380,295.15,84.85,Acre-feet
+2076,3,Non-potable Re-use,2081,2126.94,-45.9399,Acre-feet
+2077,1,Potable Treated,7369,7004,365,"Gallons, Millions"
+2078,1,Potable Treated,1679430,1535040,144390,"Gallons, Thousands"
+2079,1,Potable Treated,451,396.37,54.63,"Gallons, Millions"
+2079,2,Non-potable Raw,151,,151,"Gallons, Millions"
+2079,3,Non-potable Re-use,30,167.436,-137.436,"Gallons, Millions"
+2080,1,Potable Treated,1477.03,1249.7,227.325,"Gallons, Millions"
+2081,1,Potable Treated,880120000,785122000,94998000,Gallons
+2082,1,Potable Treated,664709000,660979000,3729980,Gallons
+2085,1,Potable Treated,2425,2754.1,-329.1,Acre-feet
+2085,2,Non-potable Raw,334,99.02,234.98,Acre-feet
+2086,1,Potable Treated,3071,2810.98,260.02,Acre-feet
+2086,2,Non-potable Raw,293,132.59,160.41,Acre-feet
+2087,1,Potable Treated,5295050,4902140,392914,"Gallons, Thousands"
+2087,3,Non-potable Re-use,571902,501350,70552,"Gallons, Thousands"
+2088,1,Potable Treated,2435,2435.1,-0.100098,"Gallons, Millions"
+2088,2,Non-potable Raw,67,76.32,-9.32,"Gallons, Millions"
+2089,1,Potable Treated,526240000,489547000,36693000,Gallons
+2091,1,Potable Treated,2816560000,2832110000,-15550200,Gallons
+2092,1,Potable Treated,3330.83,3307.61,23.2219,"Gallons, Millions"
+2093,1,Potable Treated,653.792,535.317,118.475,"Gallons, Millions"
+2093,2,Non-potable Raw,519.8,402.26,117.54,Acre-feet
+2095,1,Potable Treated,1104110,1737490,-633380,CCF (100 cubic feet)
+2095,2,Non-potable Raw,61589,61589,0,"Gallons, Thousands"
+2100,1,Potable Treated,,,,"Gallons, Millions"
+2100,2,Non-potable Raw,,,,"Gallons, Millions"
+2110,1,Potable Treated,4587,3865.96,721.04,"Gallons, Millions"
+2110,2,Non-potable Raw,,,,"Gallons, Millions"
+2111,1,Potable Treated,19103,16835,2268,Acre-feet
+2117,1,Potable Treated,1912,,1912,Acre-feet
+2118,1,Potable Treated,6895730,6149110,746624,"Gallons, Thousands"
+2118,2,Non-potable Raw,133716,133717,-1,"Gallons, Thousands"
+2119,1,Potable Treated,3384000,2901950,482050,"Gallons, Thousands"
+2120,1,Potable Treated,189259,180587,8672,Acre-feet
+2120,2,Non-potable Raw,19090,19090,0,Acre-feet
+2120,3,Non-potable Re-use,2816,2818,-2,Acre-feet
+2121,1,Potable Treated,1353,1219,134,"Gallons, Millions"
+2122,1,Potable Treated,3802840,3179150,623687,"Gallons, Thousands"
+2123,1,Potable Treated,0,983877,-983877,"Gallons, Thousands"
+2123,2,Non-potable Raw,1302,,1302,Acre-feet
+2124,1,Potable Treated,5443770,4565090,878679,"Gallons, Thousands"
+2124,2,Non-potable Raw,0,,0,"Gallons, Thousands"
+2125,1,Potable Treated,15790800,15641800,149035,"Gallons, Thousands"
+2125,2,Non-potable Raw,487445,487445,0,"Gallons, Thousands"
+2125,3,Non-potable Re-use,429098,429098,0,"Gallons, Thousands"
+2126,1,Potable Treated,722530,666847,55683,"Gallons, Thousands"
+2127,1,Potable Treated,72082,64054,8028,Acre-feet
+2127,2,Non-potable Raw,5082,4188,894,Acre-feet
+2127,3,Non-potable Re-use,2910,2911,-1,Acre-feet
+2128,1,Potable Treated,1737330,1991890,-254563,"Gallons, Thousands"
+2129,1,Potable Treated,0,1410980,-1410980,"Gallons, Thousands"
+2129,2,Non-potable Raw,0,0,0,Acre-feet
+2130,1,Potable Treated,2800080,2575710,224371,"Gallons, Thousands"
+2130,2,Non-potable Raw,113150,105501,7649,"Gallons, Thousands"
+2131,1,Potable Treated,16625,16221,404,Acre-feet
+2132,1,Potable Treated,799895,751215,48680,"Gallons, Thousands"
+2133,1,Potable Treated,1870710000,1730950000,139760000,Acre-feet
+2133,2,Non-potable Raw,96614800,96630100,-15296,Acre-feet
+2134,1,Potable Treated,5673010,5196810,476196,"Gallons, Thousands"
+2134,3,Non-potable Re-use,621200,593172,28028,"Gallons, Thousands"
+2135,1,Potable Treated,1156600000,1148260000,8340100,Gallons
+2136,1,Potable Treated,1130850000,1111090000,19760000,Gallons
+2139,1,Potable Treated,1733580,1554080,179500,"Gallons, Thousands"
+2152,1,Potable Treated,3842,3030.3,811.7,Acre-feet
+2152,2,Non-potable Raw,0,0,0,Acre-feet
+2152,3,Non-potable Re-use,1351,989,362,Acre-feet
+2153,1,Potable Treated,,,,"Gallons, Thousands"
+2154,1,Potable Treated,430,450.801,-20.801,"Gallons, Millions"
+2155,1,Potable Treated,495,508.02,-13.02,"Gallons, Millions"
+2156,1,Potable Treated,614238,526596,87642,"Gallons, Thousands"
+2157,1,Potable Treated,8758,7334,1424,"Gallons, Millions"
+2158,1,Potable Treated,939,663.4,275.6,"Gallons, Millions"
+2159,1,Potable Treated,1486,1303,183,"Gallons, Millions"
+2161,1,Potable Treated,1732410,1613770,118644,"Gallons, Thousands"
+2162,1,Potable Treated,,,,*UNSPECIFIED*
+2163,1,Potable Treated,6744,9999.3,-3255.3,Acre-feet
+2163,2,Non-potable Raw,559,500.78,58.22,Acre-feet
+2163,3,Non-potable Re-use,2595,2709.07,-114.07,Acre-feet
+2164,1,Potable Treated,,,,"Gallons, Thousands"
+2165,1,Potable Treated,1615220,1615220,0,CCF (100 cubic feet)
+2165,2,Non-potable Raw,59505,59505,0,"Gallons, Thousands"
+2166,1,Potable Treated,1546660,1546660,0,CCF (100 cubic feet)
+2166,2,Non-potable Raw,53578,53578,0,"Gallons, Thousands"
+2168,1,Potable Treated,935184000,774786000,160398000,Gallons
+2169,1,Potable Treated,930649000,786613000,144036000,Gallons
+2170,1,Potable Treated,899605000,722262000,177343000,Gallons
+2171,1,Potable Treated,902950000,758290000,144660000,Gallons
+2172,1,Potable Treated,3246,2933,313,Acre-feet
+2172,2,Non-potable Raw,366,88.79,277.21,Acre-feet
+2173,1,Potable Treated,3268880,3116220,152664,Acre-feet
+2174,1,Potable Treated,591,517.22,73.78,"Gallons, Millions"
+2174,2,Non-potable Raw,525,525.05,-0.0499878,Acre-feet
+2175,1,Potable Treated,1194440000,765028000,429411000,Gallons
+2175,2,Non-potable Raw,10332200,10332200,0,Gallons
+2176,1,Potable Treated,2656190,2479720,176470,"Gallons, Thousands"
+2176,2,Non-potable Raw,119204,103143,16061,"Gallons, Thousands"
+2177,1,Potable Treated,2442270,2314850,127421,"Gallons, Thousands"
+2177,2,Non-potable Raw,88925,82460,6465,"Gallons, Thousands"
+2178,1,Potable Treated,3391730,2869590,522140,"Gallons, Thousands"
+2179,1,Potable Treated,0,885537,-885537,"Gallons, Thousands"
+2179,2,Non-potable Raw,1442,,1442,Acre-feet
+2181,1,Potable Treated,4223,3837,386,"Gallons, Millions"
+2181,2,Non-potable Raw,0,,0,"Gallons, Millions"
+2182,1,Potable Treated,2468,2470,-2,"Gallons, Millions"
+2182,2,Non-potable Raw,69,68,1,"Gallons, Millions"
+2184,1,Potable Treated,889259,807231,82028,"Gallons, Thousands"
+2184,2,Non-potable Raw,109173,109173,0,"Gallons, Thousands"
+2186,1,Potable Treated,3551,3259.4,291.6,Acre-feet
+2186,2,Non-potable Raw,,,,Acre-feet
+2186,3,Non-potable Re-use,415,415,0,Acre-feet
+2187,1,Potable Treated,929,739.619,189.381,"Gallons, Millions"
+2188,1,Potable Treated,4663560,4282170,381386,"Gallons, Thousands"
+2188,2,Non-potable Raw,154186,154186,0,"Gallons, Thousands"
+2188,3,Non-potable Re-use,,,,Unspecified
+2189,1,Potable Treated,3062,2669.58,392.42,"Gallons, Millions"
+2190,1,Potable Treated,6710200,5936660,773545,"Gallons, Thousands"
+2190,2,Non-potable Raw,95486,95486.3,-0.296875,"Gallons, Thousands"
+2191,1,Potable Treated,1979540000,1912090000,67454800,Gallons
+2191,2,Non-potable Raw,96777800,308341000,-211563000,Gallons
+2192,1,Potable Treated,1189,1057.35,131.65,"Gallons, Millions"
+2192,2,Non-potable Raw,34,33.572,0.428001,"Gallons, Millions"
+2192,3,Non-potable Re-use,28,28.4871,-0.487101,"Gallons, Millions"
+2193,1,Potable Treated,982478,1565760,-583282,CCF (100 cubic feet)
+2193,2,Non-potable Raw,60658,60713,-55,"Gallons, Thousands"
+2194,1,Potable Treated,4963030,4228810,734216,"Gallons, Thousands"
+2194,2,Non-potable Raw,0,,0,"Gallons, Thousands"
+2195,1,Potable Treated,3443210,3253770,189436,"Gallons, Thousands"
+2196,1,Potable Treated,779779,747207,32572,"Gallons, Thousands"
+2197,1,Potable Treated,186753,176108,10645,Acre-feet
+2197,2,Non-potable Raw,21513,21512,1,Acre-feet
+2197,3,Non-potable Re-use,2723,2724,-1,Acre-feet
+2198,,**SERVICE CONNECTIONS NOT SET UP**,,,,
+2199,1,Potable Treated,16612,16248,364,Acre-feet
+2200,1,Potable Treated,8868,,8868,"Gallons, Millions"
+2200,2,Non-potable Raw,30188,,30188,Acre-feet
+2200,3,Non-potable Re-use,12783,,12783,Acre-feet
+2201,1,Potable Treated,15957200,15600700,356460,"Gallons, Thousands"
+2201,2,Non-potable Raw,435542,440801,-5259,"Gallons, Thousands"
+2201,3,Non-potable Re-use,396417,400025,-3608,"Gallons, Thousands"
+2204,1,Potable Treated,811869,705773,106096,"Gallons, Thousands"
+2205,1,Potable Treated,6446,10049.4,-3603.4,Acre-feet
+2205,2,Non-potable Raw,548,453.65,94.35,Acre-feet
+2205,3,Non-potable Re-use,2277,1258.44,1018.56,Acre-feet
+2206,1,Potable Treated,18126,16145,1981,Acre-feet
+2207,1,Potable Treated,1291,1193.7,97.3,"Gallons, Millions"
+2208,1,Potable Treated,7658,7013.24,644.76,"Gallons, Millions"
+2209,1,Potable Treated,613,554.93,58.07,"Gallons, Millions"
+2209,2,Non-potable Raw,461,461.04,-0.0400085,Acre-feet
+2210,1,Potable Treated,54,1686.75,-1632.75,"Gallons, Millions"
+2212,1,Potable Treated,498,481.69,16.31,"Gallons, Millions"
+2213,1,Potable Treated,1721240,2291760,-570523,"Gallons, Thousands"
+2214,1,Potable Treated,637446,517746,119700,"Gallons, Thousands"
+2215,1,Potable Treated,839706000,799275000,40431000,Gallons
+2216,1,Potable Treated,1674680,1544410,130267,"Gallons, Thousands"
+2217,1,Potable Treated,1644130,1523000,121134,"Gallons, Thousands"
+2218,1,Potable Treated,1717130,1630990,86136,"Gallons, Thousands"
+2219,1,Potable Treated,1687540,1606060,81480,"Gallons, Thousands"
+2220,1,Potable Treated,,,,"Gallons, Thousands"
+2220,2,Non-potable Raw,,,,Acre-feet
+2221,1,Potable Treated,,,,"Gallons, Millions"
+2221,2,Non-potable Raw,,,,"Gallons, Millions"
+2221,3,Non-potable Re-use,,,,"Gallons, Millions"
+2222,1,Potable Treated,483,411.817,71.183,"Gallons, Millions"
+2222,2,Non-potable Raw,80,,80,"Gallons, Millions"
+2222,3,Non-potable Re-use,110,205.361,-95.361,"Gallons, Millions"
+2223,1,Potable Treated,884,697.7,186.3,"Gallons, Millions"
+2224,1,Potable Treated,1468,1325.8,142.2,"Gallons, Millions"
+2226,1,Potable Treated,1359980,1350430,9549,"Gallons, Thousands"
+2228,1,Potable Treated,,,,"Gallons, Thousands"
+2228,3,Non-potable Re-use,,,,"Gallons, Thousands"
+2229,1,Potable Treated,711079000,644440000,66639000,Gallons
+2230,1,Potable Treated,1231,1020.8,210.2,"Gallons, Millions"
+2230,2,Non-potable Raw,241,241.355,-0.354996,"Gallons, Millions"
+2231,1,Potable Treated,,,,"Gallons, Millions"
+2231,2,Non-potable Raw,,,,"Gallons, Millions"
+2232,1,Potable Treated,716070000,648157000,67913000,Gallons

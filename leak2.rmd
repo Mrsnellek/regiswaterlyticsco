@@ -1,0 +1,133 @@
+---
+title: "Kat's Leak Analysis by Water Provider & Text Analysis of Water Detection Type"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning=FALSE, message=FALSE)
+library(scales)
+library(ggplot2)
+library(dplyr)
+rm(list=ls())
+```
+
+# Purpose
+- The purpose of this file is to explore the HB1051 data with emphasis on water leakage. The data can be found http://cowaterefficiency.com/unauthenticated_home with permission. Once in the portal, all report years (2013-2017) were selected as well as all water providers.
+- Section 1.0 is clean up, section 2.10 is analysis.
+
+
+# 1.0 Reading in Data
+- The following files were used:
+    + overview.csv
+    + normalizing_03_population.csv   - was initially merged for population, but ultimately not used.
+    + foundational_09_balance_data.csv
+  
+```{r}
+
+#read in data
+overview <- read.csv("EffDataPortal_Output_User690_20181112192716//overview/overview.csv", stringsAsFactors = FALSE)
+
+normalizing_pop <- read.csv("EffDataPortal_Output_User690_20181112192716/normalizing/normalizing_03_population.csv", stringsAsFactors = FALSE)
+
+foundational_09_balance_data <- read.csv("EffDataPortal_Output_User690_20181112192716/foundational/foundational_09_balance_data.csv", stringsAsFactors = FALSE)
+
+head(overview, n=10)
+head(normalizing_pop, n=10)
+head(foundational_09_balance_data, n=10)
+```
+
+
+# 1.0 Merging Overview & Normalizing_Pop on ce_annual_ndx & Foundational_09 balance data (to get water provider town name)
+- ce_annual_ndx represents the unique water provider that is unique for each provider per year of reporting (which means Denver will have as many ce_annual_ndx numbers as years reported)
+- Overview & Normalizing are merged first on ce_annual_ndx, then merged with foundational_09_balance_data on the same variable
+- Percentage of Water loss is calculated from the resulting file as calculated_lossS / distributed_watS
+- There are about 46 towns where metered water is NA which results in a non-useable percLoss
+- Lafayette for 2015, 2016 had no distributed water loss
+```{r}
+### ce_index is unique for water provider
+### ce_annual_ndx is unique for year and provider
+joined <- merge(overview, normalizing_pop, by="ce_annual_ndx", all=TRUE)
+
+### remove columns
+###
+remove <- c("bndss_basin_index", "bndss_type_index", "provider_comments", "report_status", "bndss_id", "pop_served_source", "transient_pop_source", "remark")
+joined <- joined[, !(names(joined) %in% remove)]
+head(joined, n=10)
+
+### Combine balance data/loss with overview (city & year)
+balanceM <- merge(joined, foundational_09_balance_data, by="ce_annual_ndx", all=TRUE)
+head(balanceM, n=10)
+
+
+### calcuate sums of water useage by type (potable, non, etc) by city (indx #)
+### calculate percent loss = calculated loss/ distributed wats 
+
+balanceSum <-balanceM %>% group_by(ce_annual_ndx) %>% summarise(distributed_watS = round(sum(distributed_water, na.rm=TRUE), 2), metered_waterS=round(sum(metered_water),3),  calculated_lossS= round(sum(calculated_loss), 2) , percLoss = round(calculated_lossS/distributed_watS,2)) 
+
+
+### add in descriptor columns
+###
+c <- c("ce_annual_ndx", "water_provider", "basin", "type", "report_year", "pop_served", "units" )
+#colnames(balanceM)
+
+balanceM_short <- balanceM[, (names(balanceM) %in% c)]
+together <- merge(balanceSum, balanceM_short, by="ce_annual_ndx")
+TotalLossYear <- together[!duplicated(together[,1]),]
+
+# remove all water providers where metered_water is NA
+TotalLossYear <- TotalLossYear[!is.na(TotalLossYear$metered_waterS), ]
+head(TotalLossYear, n=10)
+hist(TotalLossYear$percLoss)
+
+# remove Lafayette 2015, 2016
+TotalLossYear <- TotalLossYear[!TotalLossYear$distributed_watS ==0,]
+```
+- The following water providers may have errors in reporting because their metered water is much greater than their distributed water. These were removed from the visualizations below
+    + Little Thompson - 2014-2017
+    + Pueblo - 2013
+    + Lafayette - 2013
+    + Louisville - 2017
+- 31 rows were removed, see excel chart for which water providers and years
+![Metered greater than Distributed.](meterGreaterDistributedChart.png)
+```{r}
+
+TotalLossYear <- TotalLossYear[!(TotalLossYear$metered_waterS > TotalLossYear$distributed_watS),]
+
+
+# recalculate calculated_loss S column & create 
+TotalLossYear <- TotalLossYear %>% mutate(calculated_lossS = distributed_watS - metered_waterS , percLoss = round(calculated_lossS/distributed_watS,2))
+```
+
+```{r}
+TotalLossYear[TotalLossYear$water_provider == "Eagle River Water and Sanitation District", ]
+```
+
+# 2.0 Analysis
+
+# 2.1 Plotting Percent Water Loss By Water Provider (Town)
+
+```{r}
+####### PLOT
+library(scales)
+
+# bar plot by city, by year  - has outliers
+ggplot(TotalLossYear, aes(x=water_provider,y=percLoss,  fill=factor(report_year) ))+
+  geom_bar(stat="identity") +
+  #theme(axis.text = element_text(angle=90)) +
+    coord_flip()+
+  ggtitle("Percent Water Loss By Water Provider, Outliers Removed, 2013-2017")
+```
+
+
+### 2.3 ONLY 2017
+```{r}
+TotalLossYear2017 <- TotalLossYear[TotalLossYear$report_year == 2017,]
+#reorder levels
+TotalLossYear2017$water_provider <- factor(TotalLossYear2017$water_provider,levels=TotalLossYear2017$water_provider[order(TotalLossYear2017$percLoss)])
+ggplot(TotalLossYear2017, aes(x=water_provider,y=percLoss ))+
+  geom_bar(stat="identity") +
+  # theme(axis.text = element_text(angle=90))+
+  coord_flip() +
+  ggtitle("Percent Water Loss By Provider, 2017")
+```
+

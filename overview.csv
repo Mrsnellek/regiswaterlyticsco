@@ -1,0 +1,233 @@
+ce_annual_ndx,ce_index,water_provider,bndss_basin_index,basin,bndss_type_index,type,county,provider_comments,report_year,report_status,bndss_id
+1936,760,"Westminster, City of",4,Metro,1,Utility,"Adams, Jefferson","",2013,Submitted,Westminster
+1944,762,Widefield Water and Sanitation District,1,Arkansas,5,Company,El Paso,"",2013,Submitted,WidefieldWSD
+1968,609,"Lafayette, City of",7,South Platte,1,Utility,Boulder,"",2013,Submitted,Lafayette
+1990,663,"Northglenn, City of",7,South Platte,1,Utility,Adams,"Water treatment in Adams County, wastewater treatment in Weld County",2014,Submitted,Northglenn
+1948,663,"Northglenn, City of",7,South Platte,1,Utility,Adams,"Water treatment in Adams County, wastewater treatment in Weld County",2013,Submitted,Northglenn
+2007,573,"Grand Junction, City of",3,Gunnison,1,Utility,Mesa,City of Grand Junction,2014,Submitted,GrandJunction
+1913,499,"Cortez, City of",8,Southwest,1,Utility,Montezuma,"",2013,Submitted,Cortez
+1967,623,"Longmont, City of",7,South Platte,1,Utility,Boulder,"",2013,Submitted,Longmont
+1926,647,Mount Werner Water and Sanitation District,10,Yampa/White,2,Title 32,Routt,MWWD operates raw water supply and treatment for MWWD and City of Steamboat Springs. ,2013,Submitted,MtWernerWSD
+1945,534,East Larimer County Water District,7,South Platte,2,Title 32,"",,2013,Submitted,ELCO
+1938,513,Denver Water,4,Metro,1,Utility,"Adams, Arapahoe, Denver, Douglas, Jefferson",These are counties in Denver Water's service area. Some counties are only partially in DW's service area.,2013,Submitted,DenverWater
+1931,543,"Englewood, City of",7,South Platte,1,Utility,Arapahoe,"",2013,In Progress,Englewood
+1970,559,"Fort Morgan, City of",7,South Platte,1,Utility,Morgan,"",2013,Submitted,FtMorgan
+1924,714,South Adams County Water and Sanitation District,4,Metro,2,Title 32,Adams,"",2013,Submitted,SAdamsCoWSD
+1929,617,Left Hand Water District,7,South Platte,2,Title 32,"Boulder, Weld","",2013,Submitted,LHWD
+1916,734,"Superior, Town of",7,South Platte,1,Utility,Boulder,"",2013,Submitted,Superior
+1950,530,East Cherry Creek Valley Water and Sanitation District,4,Metro,2,Title 32,Arapahoe,"",2013,Submitted,ECherryCrkVlyWSD
+1932,458,"Breckenridge, Town of",2,Colorado,1,Utility,Summit,"",2013,Submitted,Breckenridge
+1954,526,Eagle River Water and Sanitation District,2,Colorado,2,Title 32,Eagle,Reported Data for: Vail Water Sub-district,2013,Submitted,EagleRiverWSD
+1955,789,Upper Eagle Regional Water Authority,2,Colorado,3,Authority,Eagle,"Unincorporated Eagle County; (Eagle-Vail, Beaver Creek, Arrowhead, Cordillera, Berry Creek, Bachelor Gulch, Traer Creek), Edwards, Town of Avon.",2013,Submitted,UpEagleRivWA
+1930,481,Cherokee Metropolitan District,1,Arkansas,2,Title 32,El Paso,"",2013,Submitted,CherokeeMD
+2031,499,"Cortez, City of",8,Southwest,1,Utility,Montezuma,"",2014,Submitted,Cortez
+1963,626,"Louisville, City of",7,South Platte,1,Utility,Boulder,"",2013,Submitted,Louisville
+1935,475,Centennial Water and Sanitation Distrtict,7,South Platte,1,Utility,Douglas,"",2013,Submitted,CentennialWSD
+1951,874,Colorado Springs Utilities,1,Arkansas,1,Utility,El Paso,"",2013,Submitted,CSU
+2029,734,"Superior, Town of",7,South Platte,1,Utility,Boulder,"",2014,Submitted,Superior
+1927,478,Central Weld County Water District,7,South Platte,1,Utility,Weld,"",2013,Submitted,CWCWD
+1921,434,"Arvada, City of",4,Metro,1,Utility,"Adams, Jefferson","",2013,Submitted,Arvada
+1966,708,Security Water and Sanitation District,1,Arkansas,2,Title 32,El Paso,"",2013,Submitted,SecurityWSD
+1939,544,"Erie, Town of",7,South Platte,1,Utility,"Boulder, Weld","",2013,Submitted,Erie
+1971,556,"Fort Collins, City of",7,South Platte,1,Utility,Larimer,"",2013,Submitted,FtCollins
+1940,552,"Firestone, Town of",7,South Platte,1,Utility,Weld,"",2013,Submitted,Firestone
+1991,558,"Fort Lupton, City of",7,South Platte,1,Utility,Weld,"",2014,Submitted,FtLupton
+1952,768,"Windsor, Town of",7,South Platte,1,Utility,"Larimer, Weld","",2013,Submitted,Windsor
+1934,473,"Castle Rock, Town of",7,South Platte,1,Utility,Douglas,"",2013,Submitted,CastleRock
+1922,894,Loveland Water and Power,7,South Platte,1,Utility,Larimer,"",2013,Submitted,Loveland
+1982,432,Arapahoe County Water and Wastewater Authority,4,Metro,3,Authority,"Arapahoe, Douglas, Elbert","",2013,Submitted,ACWWA
+1984,615,"Lamar, Town of",1,Arkansas,1,Utility,Prowers,"",2014,Submitted,Lamar
+2171,560,"Fountain, City of",1,Arkansas,1,Utility,"",,2016,Submitted,FountainUtilities
+1989,478,Central Weld County Water District,7,South Platte,1,Utility,Weld,"",2014,Submitted,CWCWD
+1941,456,"Boulder, City of",7,South Platte,1,Utility,Boulder,"",2013,Submitted,Boulder
+2002,513,Denver Water,4,Metro,1,Utility,"Adams, Arapahoe, Denver, Douglas, Jefferson",These are counties in Denver Water's service area. Some counties are only partially in DW's service area.,2014,Submitted,DenverWater
+2006,714,South Adams County Water and Sanitation District,4,Metro,2,Title 32,Adams,"",2014,Submitted,SAdamsCoWSD
+1986,729,"Sterling, City of",7,South Platte,1,Utility,Logan,"",2014,In Progress,Sterling
+1981,432,Arapahoe County Water and Wastewater Authority,4,Metro,3,Authority,"Arapahoe, Douglas, Elbert","",2014,Submitted,ACWWA
+1983,473,"Castle Rock, Town of",7,South Platte,1,Utility,Douglas,"",2014,Submitted,CastleRock
+2005,762,Widefield Water and Sanitation District,1,Arkansas,5,Company,El Paso,"",2014,Submitted,WidefieldWSD
+2022,475,Centennial Water and Sanitation Distrtict,7,South Platte,1,Utility,Douglas,"",2014,Submitted,CentennialWSD
+1980,863,"Aurora, City of",4,Metro,1,Utility,"Adams, Arapahoe, Douglas","",2014,Submitted,Aurora
+2032,789,Upper Eagle Regional Water Authority,2,Colorado,3,Authority,Eagle,"Unincorporated Eagle County; (Eagle-Vail, Beaver Creek, Arrowhead, Cordillera, Berry Creek, Bachelor Gulch, Traer Creek), Edwards, Town of Avon.",2014,Submitted,UpEagleRivWA
+1987,741,"Trinidad, City of",1,Arkansas,1,Utility,Las Animas,"",2014,Submitted,Trinidad
+1988,458,"Breckenridge, Town of",2,Colorado,1,Utility,Summit,"",2014,Submitted,Breckenridge
+1995,661,North Weld County Water District,7,South Platte,2,Title 32,"Larimer, Weld","",2014,Submitted,NWCWD
+1960,899,"Thornton, City of",4,Metro,1,Utility,Adams,"",2013,Submitted,Thornton
+1997,899,"Thornton, City of",4,Metro,1,Utility,Adams,"",2014,Submitted,Thornton
+2014,760,"Westminster, City of",4,Metro,1,Utility,"Adams, Jefferson","",2014,Submitted,Westminster
+2035,557,Fort Collins-Loveland Water District,7,South Platte,2,Title 32,Larimer,Larimer and Weld Counties,2013,Submitted,FCLWD
+2037,534,East Larimer County Water District,7,South Platte,2,Title 32,"",,2014,Submitted,ELCO
+2021,557,Fort Collins-Loveland Water District,7,South Platte,2,Title 32,Larimer,Larimer and Weld Counties,2014,Submitted,FCLWD
+2024,543,"Englewood, City of",7,South Platte,1,Utility,Arapahoe,"",2014,Submitted,Englewood
+2004,434,"Arvada, City of",4,Metro,1,Utility,"Adams, Jefferson","",2014,Submitted,Arvada
+1998,623,"Longmont, City of",7,South Platte,1,Utility,Boulder,"",2014,Submitted,Longmont
+2025,456,"Boulder, City of",7,South Platte,1,Utility,Boulder,"",2014,Submitted,Boulder
+2026,708,Security Water and Sanitation District,1,Arkansas,2,Title 32,El Paso,"",2014,Submitted,SecurityWSD
+2030,609,"Lafayette, City of",7,South Platte,1,Utility,Boulder,"",2014,Submitted,Lafayette
+1949,435,"Aspen, City of",2,Colorado,1,Utility,Pitkin,"",2013,Submitted,Aspen
+1942,573,"Grand Junction, City of",3,Gunnison,1,Utility,Mesa,City of Grand Junction,2013,Submitted,GrandJunction
+2173,478,Central Weld County Water District,7,South Platte,1,Utility,Weld,"",2015,Submitted,CWCWD
+2034,681,Parker Water and Sanitation District,4,Metro,2,Title 32,Douglas,"",2014,In Progress,ParkerWSD
+2050,661,North Weld County Water District,7,South Platte,2,Title 32,"Larimer, Weld","",2013,Submitted,NWCWD
+1943,619,Little Thompson Water District,7,South Platte,1,Utility,"Boulder, Larimer, Weld","",2013,Submitted,LTWD
+2018,740,Tri-County Water Conservancy District,3,Gunnison,4,District,"Delta, Montrose, Ouray","",2014,Submitted,Tri-County
+1946,524,"Durango, City of",8,Southwest,1,Utility,La Plata,"",2013,Submitted,Durango
+1993,571,"Golden, City of",4,Metro,1,Utility,Jefferson,"",2014,Submitted,Golden
+1953,459,"Brighton, City of",7,South Platte,1,Utility,"Adams, Weld",South Platte and Beebe Draw Basins,2013,Submitted,Brighton
+2033,642,"Montrose, City of",3,Gunnison,1,Utility,Montrose,"",2014,Submitted,Montrose
+2003,726,Saint Charles Mesa Water District,1,Arkansas,2,Title 32,Pueblo,"",2014,Submitted,StCharlesMesaWD
+1920,463,"Broomfield, City and County of",2,Colorado,1,Utility,"Boulder, Broomfield, Jefferson","RM Metropolitan Airport (JeffCo), Mile Water District (Adams), Broomfield",2013,Submitted,Broomfield
+2020,463,"Broomfield, City and County of",2,Colorado,1,Utility,"Boulder, Broomfield, Jefferson","RM Metropolitan Airport (JeffCo), Mile Water District (Adams), Broomfield",2014,Submitted,Broomfield
+2017,459,"Brighton, City of",7,South Platte,1,Utility,"Adams, Weld",South Platte and Beebe Draw Basins,2014,Submitted,Brighton
+2019,619,Little Thompson Water District,7,South Platte,1,Utility,"Boulder, Larimer, Weld","",2014,Submitted,LTWD
+2000,647,Mount Werner Water and Sanitation District,10,Yampa/White,2,Title 32,Routt,MWWD operates raw water supply and treatment for MWWD and City of Steamboat Springs. ,2014,Submitted,MtWernerWSD
+1975,642,"Montrose, City of",3,Gunnison,1,Utility,Montrose,"",2013,Submitted,Montrose
+1925,692,"Pueblo, Board of Water Works of",1,Arkansas,1,Utility,Pueblo,"",2013,Submitted,PuebloBWW
+2010,692,"Pueblo, Board of Water Works of",1,Arkansas,1,Utility,Pueblo,"",2014,Submitted,PuebloBWW
+2178,714,South Adams County Water and Sanitation District,4,Metro,2,Title 32,Adams,"",2017,Submitted,SAdamsCoWSD
+1912,863,"Aurora, City of",4,Metro,1,Utility,"Adams, Arapahoe, Douglas","",2013,Submitted,Aurora
+2016,768,"Windsor, Town of",7,South Platte,1,Utility,"Larimer, Weld","",2014,Submitted,Windsor
+2077,556,"Fort Collins, City of",7,South Platte,1,Utility,Larimer,"",2015,Submitted,FtCollins
+2058,768,"Windsor, Town of",7,South Platte,1,Utility,"Larimer, Weld","",2015,Submitted,Windsor
+2049,714,South Adams County Water and Sanitation District,4,Metro,2,Title 32,Adams,"",2015,Submitted,SAdamsCoWSD
+2080,789,Upper Eagle Regional Water Authority,2,Colorado,3,Authority,Eagle,"Unincorporated Eagle County; (Eagle-Vail, Beaver Creek, Arrowhead, Cordillera, Berry Creek, Bachelor Gulch, Traer Creek), Edwards, Town of Avon.",2015,Submitted,UpEagleRivWA
+1999,617,Left Hand Water District,7,South Platte,2,Title 32,"Boulder, Weld","",2014,Submitted,LHWD
+2060,617,Left Hand Water District,7,South Platte,2,Title 32,"Boulder, Weld","",2015,Submitted,LHWD
+2068,663,"Northglenn, City of",7,South Platte,1,Utility,Adams,"Water treatment in Adams County, wastewater treatment in Weld County",2015,Submitted,Northglenn
+2087,760,"Westminster, City of",4,Metro,1,Utility,"Adams, Jefferson","",2015,Submitted,Westminster
+2061,623,"Longmont, City of",7,South Platte,1,Utility,Boulder,"",2015,Submitted,Longmont
+2067,543,"Englewood, City of",7,South Platte,1,Utility,Arapahoe,"",2015,In Progress,Englewood
+2051,762,Widefield Water and Sanitation District,1,Arkansas,5,Company,El Paso,"",2015,Submitted,WidefieldWSD
+2070,456,"Boulder, City of",7,South Platte,1,Utility,Boulder,"",2015,Submitted,Boulder
+2047,473,"Castle Rock, Town of",7,South Platte,1,Utility,Douglas,"",2015,Submitted,CastleRock
+2078,573,"Grand Junction, City of",3,Gunnison,1,Utility,Mesa,City of Grand Junction,2015,Submitted,GrandJunction
+2001,526,Eagle River Water and Sanitation District,2,Colorado,2,Title 32,Eagle,Reported Data for: Vail Water Sub-district,2014,Submitted,EagleRiverWSD
+2052,432,Arapahoe County Water and Wastewater Authority,4,Metro,3,Authority,"Arapahoe, Douglas, Elbert","",2015,Submitted,ACWWA
+2073,475,Centennial Water and Sanitation Distrtict,7,South Platte,1,Utility,Douglas,"",2015,Submitted,CentennialWSD
+2089,499,"Cortez, City of",8,Southwest,1,Utility,Montezuma,"",2015,Submitted,Cortez
+2075,526,Eagle River Water and Sanitation District,2,Colorado,2,Title 32,Eagle,Reported Data for: Vail Water Sub-district,2015,Submitted,EagleRiverWSD
+2059,513,Denver Water,4,Metro,1,Utility,"Adams, Arapahoe, Denver, Douglas, Jefferson",These are counties in Denver Water's service area. Some counties are only partially in DW's service area.,2015,Submitted,DenverWater
+2071,434,"Arvada, City of",4,Metro,1,Utility,"Adams, Jefferson","",2015,Submitted,Arvada
+2069,435,"Aspen, City of",2,Colorado,1,Utility,Pitkin,"",2014,Submitted,Aspen
+2056,435,"Aspen, City of",2,Colorado,1,Utility,Pitkin,"",2015,Submitted,Aspen
+2082,552,"Firestone, Town of",7,South Platte,1,Utility,Weld,"",2015,Submitted,Firestone
+2081,708,Security Water and Sanitation District,1,Arkansas,2,Title 32,El Paso,"",2015,Submitted,SecurityWSD
+2054,894,Loveland Water and Power,7,South Platte,1,Utility,Larimer,"",2015,Submitted,Loveland
+2011,874,Colorado Springs Utilities,1,Arkansas,1,Utility,El Paso,"",2014,Submitted,CSU
+2091,557,Fort Collins-Loveland Water District,7,South Platte,2,Title 32,Larimer,Larimer and Weld Counties,2015,Submitted,FCLWD
+2048,863,"Aurora, City of",4,Metro,1,Utility,"Adams, Arapahoe, Douglas","",2015,Submitted,Aurora
+2074,874,Colorado Springs Utilities,1,Arkansas,1,Utility,El Paso,"",2015,Submitted,CSU
+2028,556,"Fort Collins, City of",7,South Platte,1,Utility,Larimer,"",2014,Submitted,FtCollins
+2072,619,Little Thompson Water District,7,South Platte,1,Utility,"Boulder, Larimer, Weld","",2015,In Progress,LTWD
+2063,681,Parker Water and Sanitation District,4,Metro,2,Title 32,Douglas,"",2015,Submitted,ParkerWSD
+2092,557,Fort Collins-Loveland Water District,7,South Platte,2,Title 32,"",Larimer and Weld Counties,2016,Submitted,FCLWD
+2123,435,"Aspen, City of",2,Colorado,1,Utility,Pitkin,"",2016,Submitted,Aspen
+2095,481,Cherokee Metropolitan District,1,Arkansas,2,Title 32,El Paso,"",2016,Submitted,CherokeeMD
+2176,530,East Cherry Creek Valley Water and Sanitation District,4,Metro,2,Title 32,Arapahoe,"",2017,Submitted,ECherryCrkVlyWSD
+1972,740,Tri-County Water Conservancy District,3,Gunnison,4,District,"Delta, Montrose, Ouray","",2013,Submitted,Tri-County
+2015,524,"Durango, City of",8,Southwest,1,Utility,La Plata,"",2014,Submitted,Durango
+2129,609,"Lafayette, City of",7,South Platte,1,Utility,"","",2016,Submitted,Lafayette
+2174,458,"Breckenridge, Town of",2,Colorado,1,Utility,Summit,"",2016,Submitted,Breckenridge
+2053,692,"Pueblo, Board of Water Works of",1,Arkansas,1,Utility,Pueblo,"",2015,Submitted,PuebloBWW
+2066,740,Tri-County Water Conservancy District,3,Gunnison,4,District,"Delta, Montrose, Ouray","",2015,Submitted,Tri-County
+2076,463,"Broomfield, City and County of",2,Colorado,1,Utility,"Boulder, Broomfield, Jefferson","RM Metropolitan Airport (JeffCo), Mile Water District (Adams), Broomfield",2015,Submitted,Broomfield
+2093,458,"Breckenridge, Town of",2,Colorado,1,Utility,Summit,"",2015,Submitted,Breckenridge
+2177,530,East Cherry Creek Valley Water and Sanitation District,4,Metro,2,Title 32,Arapahoe,"",2015,Submitted,ECherryCrkVlyWSD
+2128,619,Little Thompson Water District,7,South Platte,1,Utility,"Boulder, Larimer, Weld","",2016,Submitted,LTWD
+2079,734,"Superior, Town of",7,South Platte,1,Utility,Boulder,"",2015,Submitted,Superior
+2156,499,"Cortez, City of",8,Southwest,1,Utility,Montezuma,"",2016,Submitted,Cortez
+1976,681,Parker Water and Sanitation District,4,Metro,2,Title 32,Douglas,"",2013,Submitted,ParkerWSD
+2110,894,Loveland Water and Power,7,South Platte,1,Utility,Larimer,"",2016,Submitted,Loveland
+2085,571,"Golden, City of",4,Metro,1,Utility,Jefferson,"",2015,Submitted,Golden
+2100,524,"Durango, City of",8,Southwest,1,Utility,La Plata,"",2015,Submitted,Durango
+2065,609,"Lafayette, City of",7,South Platte,1,Utility,Boulder,"",2015,Submitted,Lafayette
+2179,435,"Aspen, City of",2,Colorado,1,Utility,Pitkin,"",2017,Submitted,Aspen
+2134,760,"Westminster, City of",4,Metro,1,Utility,"","",2016,Submitted,Westminster
+2117,726,Saint Charles Mesa Water District,1,Arkansas,2,Title 32,Pueblo,"",2015,In Progress,StCharlesMesaWD
+2122,478,Central Weld County Water District,7,South Platte,1,Utility,Weld,"",2016,Submitted,CWCWD
+2088,473,"Castle Rock, Town of",7,South Platte,1,Utility,Douglas,"",2016,Submitted,CastleRock
+2057,459,"Brighton, City of",7,South Platte,1,Utility,"Adams, Weld",South Platte and Beebe Draw Basins,2015,Submitted,Brighton
+2124,623,"Longmont, City of",7,South Platte,1,Utility,Boulder,"",2016,Submitted,Longmont
+2159,789,Upper Eagle Regional Water Authority,2,Colorado,3,Authority,Eagle,"Unincorporated Eagle County; (Eagle-Vail, Beaver Creek, Arrowhead, Cordillera, Berry Creek, Bachelor Gulch, Traer Creek), Edwards, Town of Avon.",2016,Submitted,UpEagleRivWA
+2064,899,"Thornton, City of",4,Metro,1,Utility,Adams,"",2015,Submitted,Thornton
+2133,459,"Brighton, City of",7,South Platte,1,Utility,"Adams, Weld",South Platte and Beebe Draw Basins,2016,Submitted,Brighton
+2126,740,Tri-County Water Conservancy District,3,Gunnison,4,District,"Delta, Montrose, Ouray","",2016,Submitted,Tri-County
+2139,573,"Grand Junction, City of",3,Gunnison,1,Utility,Mesa,City of Grand Junction,2016,Submitted,GrandJunction
+2125,863,"Aurora, City of",4,Metro,1,Utility,"Adams, Arapahoe, Douglas","",2016,Submitted,Aurora
+2132,762,Widefield Water and Sanitation District,1,Arkansas,5,Company,"","",2016,Submitted,WidefieldWSD
+2120,513,Denver Water,4,Metro,1,Utility,"Adams, Arapahoe, Denver, Douglas, Jefferson",These are counties in Denver Water's service area. Some counties are only partially in DW's service area.,2016,Submitted,DenverWater
+2131,434,"Arvada, City of",4,Metro,1,Utility,"Adams, Jefferson","",2016,Submitted,Arvada
+2152,432,Arapahoe County Water and Wastewater Authority,4,Metro,3,Authority,"Arapahoe, Douglas, Elbert","",2016,Submitted,ACWWA
+2118,899,"Thornton, City of",4,Metro,1,Utility,Adams,"",2016,Submitted,Thornton
+2086,571,"Golden, City of",4,Metro,1,Utility,Jefferson,"",2016,Submitted,Golden
+2153,663,"Northglenn, City of",7,South Platte,1,Utility,Adams,"Water treatment in Adams County, wastewater treatment in Weld County",2016,Submitted,Northglenn
+2111,456,"Boulder, City of",7,South Platte,1,Utility,Boulder,"",2016,Submitted,Boulder
+2154,647,Mount Werner Water and Sanitation District,10,Yampa/White,2,Title 32,Routt,MWWD operates raw water supply and treatment for MWWD and City of Steamboat Springs. ,2015,Submitted,MtWernerWSD
+2127,874,Colorado Springs Utilities,1,Arkansas,1,Utility,El Paso,"",2016,Submitted,CSU
+2158,526,Eagle River Water and Sanitation District,2,Colorado,2,Title 32,Eagle,Reported Data for: Vail Water Sub-district,2016,Submitted,EagleRiverWSD
+2119,714,South Adams County Water and Sanitation District,4,Metro,2,Title 32,Adams,"",2016,Submitted,SAdamsCoWSD
+2157,556,"Fort Collins, City of",7,South Platte,1,Utility,Larimer,"",2016,Submitted,FtCollins
+2155,647,Mount Werner Water and Sanitation District,10,Yampa/White,2,Title 32,Routt,MWWD operates raw water supply and treatment for MWWD and City of Steamboat Springs. ,2016,Submitted,MtWernerWSD
+2136,642,"Montrose, City of",3,Gunnison,1,Utility,Montrose,"",2015,Submitted,Montrose
+2023,530,East Cherry Creek Valley Water and Sanitation District,4,Metro,2,Title 32,Arapahoe,"",2014,Submitted,ECherryCrkVlyWSD
+2219,469,"Canon City, City of",1,Arkansas,1,Utility,Fremont,Only Fremont County,2013,Submitted,CanonCity
+2162,708,Security Water and Sanitation District,1,Arkansas,2,Title 32,El Paso,"",2016,Submitted,SecurityWSD
+2121,617,Left Hand Water District,7,South Platte,2,Title 32,"Boulder, Broomfield, Weld","",2016,Submitted,LHWD
+2009,894,Loveland Water and Power,7,South Platte,1,Utility,Larimer,"",2014,Submitted,Loveland
+2008,552,"Firestone, Town of",7,South Platte,1,Utility,Weld,"",2014,Submitted,Firestone
+2218,469,"Canon City, City of",1,Arkansas,1,Utility,Fremont,Only Fremont County,2014,Submitted,CanonCity
+2229,552,"Firestone, Town of",7,South Platte,1,Utility,Weld,"",2016,Submitted,Firestone
+2217,469,"Canon City, City of",1,Arkansas,1,Utility,Fremont,Only Fremont County,2015,Submitted,CanonCity
+2165,481,Cherokee Metropolitan District,1,Arkansas,2,Title 32,El Paso,"",2014,Submitted,CherokeeMD
+2166,481,Cherokee Metropolitan District,1,Arkansas,2,Title 32,El Paso,"",2015,Submitted,CherokeeMD
+2220,609,"Lafayette, City of",7,South Platte,1,Utility,Boulder,"",2017,Submitted,Lafayette
+2164,681,Parker Water and Sanitation District,4,Metro,2,Title 32,Douglas,"",2016,In Progress,ParkerWSD
+2161,469,"Canon City, City of",1,Arkansas,1,Utility,"",Only Fremont County,2016,Submitted,CanonCity
+2192,544,"Erie, Town of",7,South Platte,1,Utility,"Boulder, Weld","",2017,Submitted,Erie
+2208,556,"Fort Collins, City of",7,South Platte,1,Utility,Larimer,"",2017,Submitted,FtCollins
+2216,469,"Canon City, City of",1,Arkansas,1,Utility,Fremont,Only Fremont County,2017,Submitted,CanonCity
+2182,473,"Castle Rock, Town of",7,South Platte,1,Utility,Douglas,"",2017,Submitted,CastleRock
+2195,478,Central Weld County Water District,7,South Platte,1,Utility,Weld,"",2017,Submitted,CWCWD
+2197,513,Denver Water,4,Metro,1,Utility,"Adams, Arapahoe, Denver, Douglas, Jefferson",These are counties in Denver Water's service area. Some counties are only partially in DW's service area.,2017,Submitted,DenverWater
+2135,642,"Montrose, City of",3,Gunnison,1,Utility,Montrose,"",2016,Submitted,Montrose
+2184,906,Pinery Water and Wastewater District,7,South Platte,2,Title 32,Douglas,"",2017,Submitted,
+2193,481,Cherokee Metropolitan District,1,Arkansas,2,Title 32,El Paso,"",2017,Submitted,CherokeeMD
+2223,526,Eagle River Water and Sanitation District,2,Colorado,2,Title 32,Eagle,Reported Data for: Vail Water Sub-district,2017,Submitted,EagleRiverWSD
+2198,681,Parker Water and Sanitation District,4,Metro,2,Title 32,Douglas,"",2017,In Progress,ParkerWSD
+2189,557,Fort Collins-Loveland Water District,7,South Platte,2,Title 32,Larimer,Larimer and Weld Counties,2017,Submitted,FCLWD
+2200,692,"Pueblo, Board of Water Works of",1,Arkansas,1,Utility,Pueblo,"",2016,In Progress,PuebloBWW
+2224,789,Upper Eagle Regional Water Authority,2,Colorado,3,Authority,Eagle,"Unincorporated Eagle County; (Eagle-Vail, Beaver Creek, Arrowhead, Cordillera, Berry Creek, Bachelor Gulch, Traer Creek), Edwards, Town of Avon.",2017,Submitted,UpEagleRivWA
+2232,552,"Firestone, Town of",7,South Platte,1,Utility,Weld,"",2017,In Progress,Firestone
+2222,734,"Superior, Town of",7,South Platte,1,Utility,Boulder,"",2017,Submitted,Superior
+2188,475,Centennial Water and Sanitation Distrtict,7,South Platte,1,Utility,Douglas,"",2017,Submitted,CentennialWSD
+2187,729,"Sterling, City of",7,South Platte,1,Utility,Logan,"",2017,Submitted,Sterling
+2163,463,"Broomfield, City and County of",2,Colorado,1,Utility,"Adams, Broomfield, Jefferson","RM Metropolitan Airport (JeffCo), Mile Water District (Adams), Broomfield",2016,Submitted,Broomfield
+2186,432,Arapahoe County Water and Wastewater Authority,4,Metro,3,Authority,"Arapahoe, Douglas, Elbert","",2017,Submitted,ACWWA
+2168,560,"Fountain, City of",1,Arkansas,1,Utility,"",,2013,Submitted,FountainUtilities
+2169,560,"Fountain, City of",1,Arkansas,1,Utility,"",,2014,Submitted,FountainUtilities
+2170,560,"Fountain, City of",1,Arkansas,1,Utility,"",,2015,Submitted,FountainUtilities
+2226,663,"Northglenn, City of",7,South Platte,1,Utility,"Adams, Weld","Water treatment in Adams County, wastewater treatment in Weld County",2017,Submitted,Northglenn
+2175,560,"Fountain, City of",1,Arkansas,1,Utility,"",,2017,Submitted,FountainUtilities
+2213,619,Little Thompson Water District,7,South Platte,1,Utility,"Boulder, Larimer, Weld","",2017,Submitted,LTWD
+2130,530,East Cherry Creek Valley Water and Sanitation District,4,Metro,2,Title 32,Arapahoe,"",2016,Submitted,ECherryCrkVlyWSD
+2206,456,"Boulder, City of",7,South Platte,1,Utility,Boulder,"",2017,Submitted,Boulder
+2204,740,Tri-County Water Conservancy District,3,Gunnison,4,District,"Delta, Montrose, Ouray","",2017,Submitted,Tri-County
+2199,434,"Arvada, City of",4,Metro,1,Utility,"Adams, Jefferson","",2017,Submitted,Arvada
+2221,734,"Superior, Town of",7,South Platte,1,Utility,Boulder,"",2016,In Progress,Superior
+2212,647,Mount Werner Water and Sanitation District,10,Yampa/White,2,Title 32,Routt,MWWD operates raw water supply and treatment for MWWD and City of Steamboat Springs. ,2017,Submitted,MtWernerWSD
+2190,899,"Thornton, City of",4,Metro,1,Utility,Adams,"",2017,Submitted,Thornton
+2214,499,"Cortez, City of",8,Southwest,1,Utility,Montezuma,"",2017,Submitted,Cortez
+2215,708,Security Water and Sanitation District,1,Arkansas,2,Title 32,"","",2017,In Progress,SecurityWSD
+2205,463,"Broomfield, City and County of",2,Colorado,1,Utility,"Adams, Broomfield, Jefferson","RM Metropolitan Airport (JeffCo), Mile Water District (Adams), Broomfield",2017,In Progress,Broomfield
+2210,626,"Louisville, City of",7,South Platte,1,Utility,Boulder,"",2017,In Progress,Louisville
+2207,617,Left Hand Water District,7,South Platte,2,Title 32,"","",2017,Submitted,LHWD
+2194,623,"Longmont, City of",7,South Platte,1,Utility,Boulder,"",2017,Submitted,Longmont
+2209,458,"Breckenridge, Town of",2,Colorado,1,Utility,Summit,"",2017,Submitted,Breckenridge
+2191,459,"Brighton, City of",7,South Platte,1,Utility,"Adams, Weld",South Platte and Beebe Draw Basins,2017,Submitted,Brighton
+2181,894,Loveland Water and Power,7,South Platte,1,Utility,Larimer,"",2017,Submitted,Loveland
+2228,760,"Westminster, City of",4,Metro,1,Utility,"Adams, Jefferson","",2017,In Progress,Westminster
+2201,863,"Aurora, City of",4,Metro,1,Utility,"Adams, Arapahoe, Douglas","",2017,Submitted,Aurora
+2196,762,Widefield Water and Sanitation District,1,Arkansas,5,Company,"","",2017,Submitted,WidefieldWSD
+2172,571,"Golden, City of",4,Metro,1,Utility,Jefferson,"",2017,Submitted,Golden
+2230,524,"Durango, City of",8,Southwest,1,Utility,La Plata,"",2016,Submitted,Durango
+2231,524,"Durango, City of",8,Southwest,1,Utility,La Plata,"",2017,In Progress,Durango

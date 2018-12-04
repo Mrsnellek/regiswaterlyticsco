@@ -1,0 +1,233 @@
+,ce_annual_ndx,distributed_watS,metered_waterS,calculated_lossS,percLoss,water_provider,water_provider_split,,provider_cities,report_year,pop_served,units
+13,1924,2762583,2437863,324720,0.12,South Adams County Water and Sanitation District,South Adams County Water and Sanitation District,,NA,2013,53958,"Gallons, Thousands"
+17,1926,472067,434949,37118,0.08,Mount Werner Water and Sanitation District,Mount Werner Water and Sanitation District,,NA,2013,4980,"Gallons, Thousands"
+18,1927,9816.1,9816.1,0,0,Central Weld County Water District,Central Weld County Water District,,NA,2013,43000,Acre-feet
+19,1929,1338.26,1082.37,255.89,0.19,Left Hand Water District,Left Hand Water District,,NA,2013,19075,"Gallons, Millions"
+20,1930,758099,1376080,-617981,-0.82,Cherokee Metropolitan District,Cherokee Metropolitan District,,NA,2013,16161,CCF (100 cubic feet)
+40,1943,1849230,24295,1824940,0.99,Little Thompson Water District,Little Thompson Water District,,NA,2013,20000,"Gallons, Thousands"
+41,1944,753322,681448,71874.2,0.1,Widefield Water and Sanitation District,Widefield Water and Sanitation District,,NA,2013,17365,"Gallons, Thousands"
+42,1945,6464870,900655,5564220,0.86,East Larimer County Water District,East Larimer County Water District,,NA,2013,19427,"Gallons, Thousands"
+49,1950,2515574,2373247,142322,0.06,East Cherry Creek Valley Water and Sanitation District,East Cherry Creek Valley Water and Sanitation District,,NA,2013,57909,"Gallons, Thousands"
+59,1955,1363.13,1235.94,127.19,0.09,Upper Eagle Regional Water Authority,Upper Eagle Regional Water Authority,,NA,2013,39922,"Gallons, Millions"
+63,1966,954806000,1782420000,-827614000,-0.87,Security Water and Sanitation District,Security Water and Sanitation District,,NA,2013,18500,Gallons
+71,1972,727872,659402,68470,0.09,Tri-County Water Conservancy District,Tri-County Water Conservancy District,,NA,2013,18140,"Gallons, Thousands"
+77,1981,3941.87,3125.48,816.39,0.21,Arapahoe County Water and Wastewater Authority,Arapahoe County Water and Wastewater Authority,,NA,2014,31000,Acre-feet
+80,1982,3682.1,3035.55,646.55,0.18,Arapahoe County Water and Wastewater Authority,Arapahoe County Water and Wastewater Authority,,NA,2013,31000,Acre-feet
+90,1989,9816.1,9816.1,0,0,Central Weld County Water District,Central Weld County Water District,,NA,2014,43000,Acre-feet
+95,1995,5158,4721.79,436.21,0.08,North Weld County Water District,North Weld County Water District,,NA,2014,10517,Acre-feet
+101,1999,1331,1077,254,0.19,Left Hand Water District,Left Hand Water District,,NA,2014,19289,"Gallons, Millions"
+102,2000,457,460.749,-3.75,-0.01,Mount Werner Water and Sanitation District,Mount Werner Water and Sanitation District,,NA,2014,5129,"Gallons, Millions"
+103,2001,921.16,696.9,224.26,0.24,Eagle River Water and Sanitation District,Eagle River Water and Sanitation District,,NA,2014,5289,"Gallons, Millions"
+107,2003,2089,1836,253,0.12,Saint Charles Mesa Water District,Saint Charles Mesa Water District,,NA,2014,9556,Acre-feet
+109,2005,752508,686472,66036.4,0.09,Widefield Water and Sanitation District,Widefield Water and Sanitation District,,NA,2014,17815,"Gallons, Thousands"
+110,2006,2748060,2590540,157525,0.06,South Adams County Water and Sanitation District,South Adams County Water and Sanitation District,,NA,2014,55672,"Gallons, Thousands"
+130,2018,727922,652303,75619,0.1,Tri-County Water Conservancy District,Tri-County Water Conservancy District,,NA,2014,18140,"Gallons, Thousands"
+131,2019,-378,247482,-247860,655.71,Little Thompson Water District,Little Thompson Water District,,NA,2014,20300,"Gallons, Thousands"
+139,2023,2480,2330.437,149.56,0.06,East Cherry Creek Valley Water and Sanitation District,East Cherry Creek Valley Water and Sanitation District,,NA,2014,59425,"Gallons, Millions"
+143,2026,940996000,1727850000,-786854000,-0.84,Security Water and Sanitation District,Security Water and Sanitation District,,NA,2014,18870,Gallons
+151,2032,1477.03,1249.7,227.32,0.15,Upper Eagle Regional Water Authority,Upper Eagle Regional Water Authority,,NA,2014,29873,"Gallons, Millions"
+155,2037,1177820,810598,367220,0.31,East Larimer County Water District,East Larimer County Water District,,NA,2014,19660,"Gallons, Thousands"
+161,2049,2903490,NA,265486,0.09,South Adams County Water and Sanitation District,South Adams County Water and Sanitation District,,NA,2015,57369,"Gallons, Thousands"
+163,2050,4979.3,4546.44,432.86,0.09,North Weld County Water District,North Weld County Water District,,NA,2013,10382,Acre-feet
+165,2051,689904,643082,46822,0.07,Widefield Water and Sanitation District,Widefield Water and Sanitation District,,NA,2015,18112,"Gallons, Thousands"
+166,2052,4353,3162.2,1190.8,0.27,Arapahoe County Water and Wastewater Authority,Arapahoe County Water and Wastewater Authority,,NA,2015,31000,Acre-feet
+186,2060,1384,1092.4,291.6,0.21,Left Hand Water District,Left Hand Water District,,NA,2015,19682,"Gallons, Millions"
+194,2066,701424,660346,41078,0.06,Tri-County Water Conservancy District,Tri-County Water Conservancy District,,NA,2015,18242,"Gallons, Thousands"
+202,2072,1614360,1800360,-185995,-0.12,Little Thompson Water District,Little Thompson Water District,,NA,2015,20300,"Gallons, Thousands"
+209,2075,971.98,685.2,286.78,0.3,Eagle River Water and Sanitation District,Eagle River Water and Sanitation District,,NA,2015,5320,"Gallons, Millions"
+218,2080,1477.03,1249.7,227.32,0.15,Upper Eagle Regional Water Authority,Upper Eagle Regional Water Authority,,NA,2015,29873,"Gallons, Millions"
+219,2081,880120000,785122000,94998000,0.11,Security Water and Sanitation District,Security Water and Sanitation District,,NA,2015,19247,Gallons
+234,2095,1165699,1799079,-633380,-0.54,Cherokee Metropolitan District,Cherokee Metropolitan District,,NA,2016,18200,CCF (100 cubic feet)
+241,2117,1912,NA,1912,1,Saint Charles Mesa Water District,Saint Charles Mesa Water District,,NA,2015,9572,Acre-feet
+244,2119,3384000,2901950,482050,0.14,South Adams County Water and Sanitation District,South Adams County Water and Sanitation District,,NA,2016,58737,"Gallons, Thousands"
+248,2121,1353,1219,134,0.1,Left Hand Water District,Left Hand Water District,,NA,2016,19885,"Gallons, Millions"
+249,2122,3802840,3179150,623687,0.16,Central Weld County Water District,Central Weld County Water District,,NA,2016,7500,"Gallons, Thousands"
+257,2126,722530,666847,55683,0.08,Tri-County Water Conservancy District,Tri-County Water Conservancy District,,NA,2016,18347,"Gallons, Thousands"
+261,2128,1737330,1991890,-254563,-0.15,Little Thompson Water District,Little Thompson Water District,,NA,2016,20300,"Gallons, Thousands"
+264,2130,2913230,2681211,232020,0.08,East Cherry Creek Valley Water and Sanitation District,East Cherry Creek Valley Water and Sanitation District,,NA,2016,60639,"Gallons, Thousands"
+267,2132,799895,751215,48680,0.06,Widefield Water and Sanitation District,Widefield Water and Sanitation District,,NA,2016,19118,"Gallons, Thousands"
+275,2152,5193,4019.3,1173.7,0.23,Arapahoe County Water and Wastewater Authority,Arapahoe County Water and Wastewater Authority,,NA,2016,31000,Acre-feet
+279,2154,430,450.801,-20.8,-0.05,Mount Werner Water and Sanitation District,Mount Werner Water and Sanitation District,,NA,2015,5283,"Gallons, Millions"
+280,2155,495,508.02,-13.02,-0.03,Mount Werner Water and Sanitation District,Mount Werner Water and Sanitation District,,NA,2016,5442,"Gallons, Millions"
+283,2158,939,663.4,275.6,0.29,Eagle River Water and Sanitation District,Eagle River Water and Sanitation District,,NA,2016,5450,"Gallons, Millions"
+284,2159,1486,1303,183,0.12,Upper Eagle Regional Water Authority,Upper Eagle Regional Water Authority,,NA,2016,29873,"Gallons, Millions"
+286,2162,NA,NA,NA,NA,Security Water and Sanitation District,Security Water and Sanitation District,,NA,2016,19630,*UNSPECIFIED*
+291,2165,1674725,1674725,0,0,Cherokee Metropolitan District,Cherokee Metropolitan District,,NA,2014,17493,CCF (100 cubic feet)
+293,2166,1600238,1600238,0,0,Cherokee Metropolitan District,Cherokee Metropolitan District,,NA,2015,17843,CCF (100 cubic feet)
+301,2173,3268880,3116220,152664,0.05,Central Weld County Water District,Central Weld County Water District,,NA,2015,7400,Acre-feet
+306,2176,2775394,2582863,192531,0.07,East Cherry Creek Valley Water and Sanitation District,East Cherry Creek Valley Water and Sanitation District,,NA,2017,65915,"Gallons, Thousands"
+308,2177,2531195,2397310,133886,0.05,East Cherry Creek Valley Water and Sanitation District,East Cherry Creek Valley Water and Sanitation District,,NA,2015,59844,"Gallons, Thousands"
+310,2178,3391730,2869590,522140,0.15,South Adams County Water and Sanitation District,South Adams County Water and Sanitation District,,NA,2017,60046,"Gallons, Thousands"
+319,2186,NA,NA,NA,NA,Arapahoe County Water and Wastewater Authority,Arapahoe County Water and Wastewater Authority,,NA,2017,31000,Acre-feet
+338,2195,3443210,3253770,189436,0.06,Central Weld County Water District,Central Weld County Water District,,NA,2017,7500,"Gallons, Thousands"
+339,2196,779779,747207,32572,0.04,Widefield Water and Sanitation District,Widefield Water and Sanitation District,,NA,2017,19880,"Gallons, Thousands"
+351,2204,811869,705773,106096,0.13,Tri-County Water Conservancy District,Tri-County Water Conservancy District,,NA,2017,18520,"Gallons, Thousands"
+356,2207,1291,1193.7,97.3,0.08,Left Hand Water District,Left Hand Water District,,NA,2017,20166,"Gallons, Millions"
+361,2212,498,481.69,16.31,0.03,Mount Werner Water and Sanitation District,Mount Werner Water and Sanitation District,,NA,2017,6500,"Gallons, Millions"
+362,2213,1721240,2291760,-570523,-0.33,Little Thompson Water District,Little Thompson Water District,,NA,2017,20300,"Gallons, Thousands"
+364,2215,839706000,799275000,40431000,0.05,Security Water and Sanitation District,Security Water and Sanitation District,,NA,2017,19924,Gallons
+377,2223,884,697.7,186.3,0.21,Eagle River Water and Sanitation District,Eagle River Water and Sanitation District,,NA,2017,5486,"Gallons, Millions"
+378,2224,1468,1325.8,142.2,0.1,Upper Eagle Regional Water Authority,Upper Eagle Regional Water Authority,,NA,2017,28756,"Gallons, Millions"
+58,1954,921.16,690.94,230.22,0.25,Eagle River Water and Sanitation District,Eagle River Water and Sanitation District,,NA,2013,5289,"Gallons, Millions"
+334,2193,1043136,1626473,-583337,-0.56,Cherokee Metropolitan District,Cherokee Metropolitan District,,NA,2017,18564,CCF (100 cubic feet)
+11,1921,14454,14454.2,-0.2,0,"Arvada, City of",Arvada, City of,Arvada,2013,109745,Acre-feet
+108,2004,14987,14650,337,0.02,"Arvada, City of",Arvada, City of,Arvada,2014,111707,Acre-feet
+201,2071,14990,14677,313,0.02,"Arvada, City of",Arvada, City of,Arvada,2015,113574,Acre-feet
+266,2131,16625,16221,404,0.02,"Arvada, City of",Arvada, City of,Arvada,2016,117453,Acre-feet
+344,2199,16612,16248,364,0.02,"Arvada, City of",Arvada, City of,Arvada,2017,118807,Acre-feet
+46,1949,1037732.5,NA,-477817.5,-0.46,"Aspen, City of",Aspen, City of,Aspen,2013,10381,"Gallons, Thousands"
+174,2056,1427837,NA,467953,0.33,"Aspen, City of",Aspen, City of,Aspen,2015,10632,"Gallons, Thousands"
+197,2069,NA,NA,NA,NA,"Aspen, City of",Aspen, City of,Aspen,2014,10506,"Gallons, Thousands"
+250,2123,1302,NA,-982575,-754.67,"Aspen, City of",Aspen, City of,Aspen,2016,10760,"Gallons, Thousands"
+311,2179,1442,NA,-884095,-613.1,"Aspen, City of",Aspen, City of,Aspen,2017,10889,"Gallons, Thousands"
+1,1912,15314762,14685916,628846,0.04,"Aurora, City of",Aurora, City of,Aurora,2013,351200,"Gallons, Thousands"
+74,1980,15271665,14682358,589307,0.04,"Aurora, City of",Aurora, City of,Aurora,2014,351200,"Gallons, Thousands"
+158,2048,15897392,15193649,703743,0.04,"Aurora, City of",Aurora, City of,Aurora,2015,351200,"Gallons, Thousands"
+254,2125,16707343,16558343,149035,0.01,"Aurora, City of",Aurora, City of,Aurora,2016,367710,"Gallons, Thousands"
+348,2201,16789159,16441526,347593,0.02,"Aurora, City of",Aurora, City of,Aurora,2017,366623,"Gallons, Thousands"
+38,1941,17631,15531,2100,0.12,"Boulder, City of",Boulder, City of,Boulder,2013,113621,Acre-feet
+142,2025,17455,15528,1927,0.11,"Boulder, City of",Boulder, City of,Boulder,2014,114200,Acre-feet
+200,2070,17727,15904,1823,0.1,"Boulder, City of",Boulder, City of,Boulder,2015,117000,Acre-feet
+240,2111,19103,16835,2268,0.12,"Boulder, City of",Boulder, City of,Boulder,2016,117000,Acre-feet
+355,2206,18126,16145,1981,0.11,"Boulder, City of",Boulder, City of,Boulder,2017,121000,Acre-feet
+22,1932,604,569.249,34.75,0.06,"Breckenridge, Town of",Breckenridge, Town of,Breckenridge,2013,5040,"Gallons, Millions"
+88,1988,564.01,1117.675,-553.66,-0.98,"Breckenridge, Town of",Breckenridge, Town of,Breckenridge,2014,5040,"Gallons, Millions"
+232,2093,1173.59,937.577,236.01,0.2,"Breckenridge, Town of",Breckenridge, Town of,Breckenridge,2015,5040,"Gallons, Millions"
+302,2174,1116,1042.27,73.73,0.07,"Breckenridge, Town of",Breckenridge, Town of,Breckenridge,2016,5040,"Gallons, Millions"
+358,2209,1074,1015.97,58.03,0.05,"Breckenridge, Town of",Breckenridge, Town of,Breckenridge,2017,5040,"Gallons, Millions"
+56,1953,1619774.13,1489415.71,130358.42,0.08,"Brighton, City of",Brighton, City of,Brighton,2013,35144,"Gallons, Thousands"
+128,2017,5907.96,5776,131.96,0.02,"Brighton, City of",Brighton, City of,Brighton,2014,35367,Acre-feet
+177,2057,5590,5650.41,-60.41,-0.01,"Brighton, City of",Brighton, City of,Brighton,2015,36469,Acre-feet
+268,2133,1967324800,1827580100,139744704,0.07,"Brighton, City of",Brighton, City of,Brighton,2016,36381,Acre-feet
+329,2191,2076317800,2220431000,-144108200,-0.07,"Brighton, City of",Brighton, City of,Brighton,2017,37924,Gallons
+8,1920,8468,10972.93,-2504.93,-0.3,"Broomfield, City and County of",Broomfield, City and County of,Broomfield,2013,60885,Acre-feet
+132,2020,8031,11666.69,-3635.69,-0.45,"Broomfield, City and County of",Broomfield, City and County of,Broomfield,2014,62371,Acre-feet
+210,2076,8243,11552.68,-3309.68,-0.4,"Broomfield, City and County of",Broomfield, City and County of,Broomfield,2015,65456,Acre-feet
+287,2163,9898,13209.15,-3311.15,-0.33,"Broomfield, City and County of",Broomfield, City and County of,Broomfield,2016,66516,Acre-feet
+352,2205,9271,11761.49,-2490.49,-0.27,"Broomfield, City and County of",Broomfield, City and County of,Broomfield,2017,68090,Acre-feet
+285,2161,1732410,1613770,118644,0.07,"Canon City, City of",Canon City, City of,Canon City,2016,25000,"Gallons, Thousands"
+365,2216,1674680,1544410,130267,0.08,"Canon City, City of",Canon City, City of,Canon City,2017,25000,"Gallons, Thousands"
+366,2217,1644130,1523000,121134,0.07,"Canon City, City of",Canon City, City of,Canon City,2015,25000,"Gallons, Thousands"
+367,2218,1717130,1630990,86136,0.05,"Canon City, City of",Canon City, City of,Canon City,2014,25000,"Gallons, Thousands"
+368,2219,1687540,1606060,81480,0.05,"Canon City, City of",Canon City, City of,Canon City,2013,25000,"Gallons, Thousands"
+24,1934,2240,2245.72,-5.72,0,"Castle Rock, Town of",Castle Rock, Town of,Castle Rock,2013,54238,"Gallons, Millions"
+83,1983,2109.11,2108.905,0.2,0,"Castle Rock, Town of",Castle Rock, Town of,Castle Rock,2014,56645,"Gallons, Millions"
+156,2047,2271.8,2271.7,0.1,0,"Castle Rock, Town of",Castle Rock, Town of,Castle Rock,2015,59189,"Gallons, Millions"
+227,2088,2502,2511.42,-9.42,0,"Castle Rock, Town of",Castle Rock, Town of,Castle Rock,2016,62188,"Gallons, Millions"
+315,2182,2537,2538,-1,0,"Castle Rock, Town of",Castle Rock, Town of,Castle Rock,2017,65520,"Gallons, Millions"
+25,1935,4619724,4210887,408834,0.09,Centennial Water and Sanitation Distrtict,Centennial Water and Sanitation Distrtict,,Centennial ,2013,98311,"Gallons, Thousands"
+203,2073,4479495,NA,268227,0.06,Centennial Water and Sanitation Distrtict,Centennial Water and Sanitation Distrtict,,Centennial ,2015,100269,"Gallons, Thousands"
+136,2022,4517616,4405656,111965,0.02,Centennial Water and Sanitation Distrtict,Centennial Water and Sanitation Distrtict,,Centennial  ,2014,98949,"Gallons, Thousands"
+323,2188,NA,NA,NA,NA,Centennial Water and Sanitation Distrtict,Centennial Water and Sanitation Distrtict,,Centennial Water ,2017,101835,"Gallons, Thousands"
+51,1951,74998,69216,5782,0.08,Colorado Springs Utilities,Colorado Springs Utilities,,Colorado Springs ,2013,458716,Acre-feet
+119,2011,79507,72413,7094,0.09,Colorado Springs Utilities,Colorado Springs Utilities,,Colorado Springs ,2014,465704,Acre-feet
+206,2074,75748,70211,5537,0.07,Colorado Springs Utilities,Colorado Springs Utilities,,Colorado Springs ,2015,470513,Acre-feet
+258,2127,80074,71153,8921,0.11,Colorado Springs Utilities,Colorado Springs Utilities,,Colorado Springs ,2016,481593,Acre-feet
+4,1913,645870000,600114000,45756000,0.07,"Cortez, City of",Cortez, City of,Cortez,2013,8700,Gallons
+150,2031,669318000,551498000,117820000,0.18,"Cortez, City of",Cortez, City of,Cortez,2014,8700,Gallons
+229,2089,526240000,489547000,36693000,0.07,"Cortez, City of",Cortez, City of,Cortez,2015,8700,Gallons
+281,2156,614238,526596,87642,0.14,"Cortez, City of",Cortez, City of,Cortez,2016,8700,"Gallons, Thousands"
+363,2214,637446,517746,119700,0.19,"Cortez, City of",Cortez, City of,Cortez,2017,9007,"Gallons, Thousands"
+104,2002,181067,173288,7779,0.04,Denver Water,Denver Water,,Denver,2014,1172000,Acre-feet
+183,2059,180238,173164,7074,0.04,Denver Water,Denver Water,,Denver,2015,1210000,Acre-feet
+245,2120,211165,202495,8670,0.04,Denver Water,Denver Water,,Denver,2016,1249000,Acre-feet
+340,2197,210989,200344,10645,0.05,Denver Water,Denver Water,,Denver  ,2017,1275000,Acre-feet
+31,1938,59103710,56860695,2242985,0.04,Denver Water,Denver Water,,Denver,2013,1161000,"Gallons, Thousands"
+43,1946,1717,NA,706.34,0.41,"Durango, City of",Durango, City of,Durango,2013,17656,"Gallons, Millions"
+125,2015,2.27,0,2.27,1,"Durango, City of",Durango, City of,Durango,2014,17656,"Gallons, Millions"
+236,2100,NA,NA,NA,NA,"Durango, City of",Durango, City of,Durango,2015,16295,"Gallons, Millions"
+383,2230,1472,1262.155,209.85,0.14,"Durango, City of",Durango, City of,Durango,2016,16596,"Gallons, Millions"
+385,2231,NA,NA,NA,NA,"Durango, City of",Durango, City of,Durango,2017,16596,"Gallons, Millions"
+21,1931,NA,NA,NA,NA,"Englewood, City of",Englewood, City of,Englewood,2013,30255,
+141,2024,1635,2472.89,-837.89,-0.51,"Englewood, City of",Englewood, City of,Englewood,2014,32480,"Gallons, Millions"
+195,2067,NA,NA,NA,NA,"Englewood, City of",Englewood, City of,Englewood,2015,0,Unspecified
+34,1939,NA,NA,NA,NA,"Erie, Town of",Erie, Town of,Erie,2013,20720,Acre-feet
+331,2192,1251,1119.409,131.59,0.11,"Erie, Town of",Erie, Town of,Erie,2017,26250,"Gallons, Millions"
+37,1940,625281000,586044000,39237000,0.06,"Firestone, Town of",Firestone, Town of,Firestone,2013,11321,Gallons
+114,2008,635052000,608661000,26391000,0.04,"Firestone, Town of",Firestone, Town of,Firestone,2014,11321,Gallons
+220,2082,664709000,660979000,3729980,0.01,"Firestone, Town of",Firestone, Town of,Firestone,2015,12110,Gallons
+382,2229,711079000,644440000,66639000,0.09,"Firestone, Town of",Firestone, Town of,Firestone,2016,12807,Gallons
+387,2232,716070000,648157000,67913000,0.09,"Firestone, Town of",Firestone, Town of,Firestone,2017,12807,Gallons
+70,1971,7406,6871.5,534.5,0.07,"Fort Collins, City of",Fort Collins, City of,Fort Collins,2013,129751,"Gallons, Millions"
+135,2021,2844110000,2740420000,103686000,0.04,Fort Collins-Loveland Water District,Fort Collins-Loveland Water District,,Fort Collins,2014,43159,Gallons
+144,2028,7433,5603,1830,0.25,"Fort Collins, City of",Fort Collins, City of,Fort Collins,2014,130200,"Gallons, Millions"
+154,2035,2999550000,2809010000,190542000,0.06,Fort Collins-Loveland Water District,Fort Collins-Loveland Water District,,Fort Collins,2013,41916,Gallons
+213,2077,7369,7004,365,0.05,"Fort Collins, City of",Fort Collins, City of,Fort Collins,2015,132501,"Gallons, Millions"
+230,2091,2816560000,2832110000,-15550200,-0.01,Fort Collins-Loveland Water District,Fort Collins-Loveland Water District,,Fort Collins,2015,43128,Gallons
+231,2092,3330.83,3307.61,23.22,0.01,Fort Collins-Loveland Water District,Fort Collins-Loveland Water District,,Fort Collins,2016,44061,"Gallons, Millions"
+282,2157,8758,7334,1424,0.16,"Fort Collins, City of",Fort Collins, City of,Fort Collins,2016,132553,"Gallons, Millions"
+326,2189,3062,2669.58,392.42,0.13,Fort Collins-Loveland Water District,Fort Collins-Loveland Water District,,Fort Collins,2017,44838,"Gallons, Millions"
+357,2208,7658,7013.24,644.76,0.08,"Fort Collins, City of",Fort Collins, City of,Fort Collins,2017,133738,"Gallons, Millions"
+92,1991,545380000,542160000,3219580,0.01,"Fort Lupton, City of",Fort Lupton, City of,Fort Lupton,2014,7689,Gallons
+68,1970,1314993,1292743.5,22249.5,0.02,"Fort Morgan, City of",Fort Morgan, City of,Fort Morgan,2013,11451,"Gallons, Thousands"
+295,2168,935184000,774786000,160398000,0.17,"Fountain, City of",Fountain, City of,Fountain,2013,24296,Gallons
+296,2169,930649000,786613000,144036000,0.15,"Fountain, City of",Fountain, City of,Fountain,2014,24760,Gallons
+297,2170,899605000,722262000,177343000,0.2,"Fountain, City of",Fountain, City of,Fountain,2015,25224,Gallons
+298,2171,902950000,758290000,144660000,0.16,"Fountain, City of",Fountain, City of,Fountain,2016,25688,Gallons
+304,2175,1204772200,775360200,429411000,0.36,"Fountain, City of",Fountain, City of,Fountain,2017,28753,Gallons
+93,1993,2790,2741.7,48.3,0.02,"Golden, City of",Golden, City of,Golden,2014,19759,Acre-feet
+221,2085,2759,2853.12,-94.12,-0.03,"Golden, City of",Golden, City of,Golden,2015,19780,Acre-feet
+223,2086,3364,2943.57,420.43,0.12,"Golden, City of",Golden, City of,Golden,2016,20696,Acre-feet
+299,2172,3612,3021.79,590.21,0.16,"Golden, City of",Golden, City of,Golden,2017,20571,Acre-feet
+39,1942,1716.21,1519.7,196.51,0.11,"Grand Junction, City of",Grand Junction, City of,Grand Junction,2013,27000,"Gallons, Millions"
+112,2007,1735055,NA,170315,0.1,"Grand Junction, City of",Grand Junction, City of,Grand Junction,2014,27516,"Gallons, Thousands"
+214,2078,1679430,1535040,144390,0.09,"Grand Junction, City of",Grand Junction, City of,Grand Junction,2015,27500,"Gallons, Thousands"
+274,2139,1733580,1554080,179500,0.1,"Grand Junction, City of",Grand Junction, City of,Grand Junction,2016,27500,"Gallons, Thousands"
+66,1968,1434495.42,1239625.42,194870,0.14,"Lafayette, City of",Lafayette, City of,Lafayette,2013,26629,"Gallons, Thousands"
+148,2030,1584,1272343.762,-1270760.76,-802.25,"Lafayette, City of",Lafayette, City of,Lafayette,2014,27279,"Gallons, Thousands"
+192,2065,0,1261830,-1261830,#NAME?,"Lafayette, City of",Lafayette, City of,Lafayette,2015,26654,"Gallons, Thousands"
+262,2129,0,1410980,-1410980,#NAME?,"Lafayette, City of",Lafayette, City of,Lafayette,2016,28641,"Gallons, Thousands"
+369,2220,NA,NA,NA,NA,"Lafayette, City of",Lafayette, City of,Lafayette,2017,28641,"Gallons, Thousands"
+85,1984,680046000,550577000,129469000,0.19,"Lamar, Town of",Lamar, Town of,Lamar,2014,7860,Gallons
+64,1967,5138760,NA,1090420,0.21,"Longmont, City of",Longmont, City of,Longmont,2013,93000,"Gallons, Thousands"
+99,1998,4849970,NA,851494,0.18,"Longmont, City of",Longmont, City of,Longmont,2014,93761,"Gallons, Thousands"
+187,2061,5117930,NA,978401,0.19,"Longmont, City of",Longmont, City of,Longmont,2015,94802,"Gallons, Thousands"
+252,2124,5443770,NA,878679,0.16,"Longmont, City of",Longmont, City of,Longmont,2016,95883,"Gallons, Thousands"
+336,2194,4963030,NA,734216,0.15,"Longmont, City of",Longmont, City of,Longmont,2017,96825,"Gallons, Thousands"
+62,1963,1142.5,NA,1142.5,1,"Louisville, City of",Louisville, City of,Louisville,2013,19074,"Gallons, Millions"
+360,2210,54,1686.75,-1632.75,-30.24,"Louisville, City of",Louisville, City of,Louisville,2017,21287,"Gallons, Millions"
+172,2054,14232,NA,3309,0.23,Loveland Water and Power,Loveland Water and Power,,Loveland,2015,73420,Acre-feet
+238,2110,NA,NA,NA,NA,Loveland Water and Power,Loveland Water and Power,,Loveland,2016,73420,"Gallons, Millions"
+12,1922,4237200000,3451360000,785840000,0.19,Loveland Water and Power,Loveland Water and Power,,Loveland ,2013,72846,Gallons
+115,2009,4190000800,NA,705660800,0.17,Loveland Water and Power,Loveland Water and Power,,Loveland ,2014,71985,Gallons
+313,2181,4223,NA,386,0.09,Loveland Water and Power,Loveland Water and Power,,Loveland ,2017,74385,"Gallons, Millions"
+72,1975,1085460000,1088540000,-3080060,0,"Montrose, City of",Montrose, City of,Montrose,2013,18925,Gallons
+152,2033,1125310000,1090510000,34800000,0.03,"Montrose, City of",Montrose, City of,Montrose,2014,19000,Gallons
+272,2135,1156600000,1148260000,8340100,0.01,"Montrose, City of",Montrose, City of,Montrose,2016,18720,Gallons
+273,2136,1130850000,1111090000,19760000,0.02,"Montrose, City of",Montrose, City of,Montrose,2015,18346,Gallons
+45,1948,1443150,7,1443140,1,"Northglenn, City of",Northglenn, City of,Northglenn,2013,35789,"Gallons, Thousands"
+91,1990,1385220,NA,1385220,1,"Northglenn, City of",Northglenn, City of,Northglenn,2014,35789,"Gallons, Thousands"
+196,2068,4787.48,NA,4787.48,1,"Northglenn, City of",Northglenn, City of,Northglenn,2015,35789,"Gallons, Thousands"
+278,2153,NA,NA,NA,NA,"Northglenn, City of",Northglenn, City of,Northglenn,2016,35789,"Gallons, Thousands"
+379,2226,1359980,1350430,9549,0.01,"Northglenn, City of",Northglenn, City of,Northglenn,2017,38648,"Gallons, Thousands"
+153,2034,3246.63,1890,1356.63,0.42,Parker Water and Sanitation District,Parker Water and Sanitation District,,Parker,2014,45195,"Gallons, Millions"
+189,2063,2896,2815.65,80.35,0.03,Parker Water and Sanitation District,Parker Water and Sanitation District,,Parker,2015,49700,"Gallons, Millions"
+73,1976,2814,2151,663,0.24,Parker Water and Sanitation District,Parker Water and Sanitation District,,Parker ,2013,43764,"Gallons, Millions"
+290,2164,NA,NA,NA,NA,Parker Water and Sanitation District,Parker Water and Sanitation District,,Parker ,2016,53163,"Gallons, Thousands"
+343,2198,NA,NA,NA,NA,Parker Water and Sanitation District,Parker Water and Sanitation District,,Parker  ,2017,0,
+317,2184,998432,916404,82028,0.08,Pinery Water and Wastewater District,Pinery Water and Wastewater District,,Pinery,2017,13140,"Gallons, Thousands"
+15,1925,12002.61,8170015,-8158011,-679.69,"Pueblo, Board of Water Works of",Pueblo, Board of Water Works of,Pueblo,2013,107914,"Gallons, Thousands"
+117,2010,8642739,7247769,1394970,0.16,"Pueblo, Board of Water Works of",Pueblo, Board of Water Works of,Pueblo,2014,109254,"Gallons, Thousands"
+169,2053,59646,NA,39645,0.66,"Pueblo, Board of Water Works of",Pueblo, Board of Water Works of,Pueblo,2015,109532,"Gallons, Thousands"
+345,2200,51839,NA,51839,1,"Pueblo, Board of Water Works of",Pueblo, Board of Water Works of,Pueblo,2016,110652,"Gallons, Millions"
+86,1986,876,NA,876,1,"Sterling, City of",Sterling, City of,Sterling,2014,18211,"Gallons, Millions"
+322,2187,929,739.619,189.38,0.2,"Sterling, City of",Sterling, City of,Sterling,2017,14702,"Gallons, Millions"
+5,1916,759.09,716.025,43.07,0.06,"Superior, Town of",Superior, Town of,Superior,2013,12483,"Gallons, Millions"
+145,2029,615.41,NA,17.39,0.03,"Superior, Town of",Superior, Town of,Superior,2014,12483,"Gallons, Millions"
+215,2079,632,NA,68.19,0.11,"Superior, Town of",Superior, Town of,Superior,2015,12483,"Gallons, Millions"
+371,2221,NA,NA,NA,NA,"Superior, Town of",Superior, Town of,Superior,2016,12483,"Gallons, Millions"
+374,2222,673,NA,55.82,0.08,"Superior, Town of",Superior, Town of,Superior,2017,12483,"Gallons, Millions"
+60,1960,6081660,5567199.9,514463.06,0.08,"Thornton, City of",Thornton, City of,Thornton,2013,139473,"Gallons, Thousands"
+97,1997,6241986,5614336,627653.31,0.1,"Thornton, City of",Thornton, City of,Thornton,2014,140478,"Gallons, Thousands"
+190,2064,6517100,5822780,694323.81,0.11,"Thornton, City of",Thornton, City of,Thornton,2015,148591,"Gallons, Thousands"
+242,2118,7029446,6282827,746623,0.11,"Thornton, City of",Thornton, City of,Thornton,2016,150979,"Gallons, Thousands"
+327,2190,6805686,6032146.3,773544.7,0.11,"Thornton, City of",Thornton, City of,Thornton,2017,154273,"Gallons, Thousands"
+87,1987,722.28,677.302,44.98,0.06,"Trinidad, City of",Trinidad, City of,Trinidad,2014,10000,"Gallons, Millions"
+28,1936,5856001.6,5410653.6,445352,0.08,"Westminster, City of",Westminster, City of,Westminster,2013,117011,"Gallons, Thousands"
+122,2014,5901611,NA,455211,0.08,"Westminster, City of",Westminster, City of,Westminster,2014,118156,"Gallons, Thousands"
+225,2087,5866952,5403490,463466,0.08,"Westminster, City of",Westminster, City of,Westminster,2015,119196,"Gallons, Thousands"
+270,2134,6294210,5789982,504224,0.08,"Westminster, City of",Westminster, City of,Westminster,2016,120090,"Gallons, Thousands"
+380,2228,NA,NA,NA,NA,"Westminster, City of",Westminster, City of,Westminster,2017,120090,"Gallons, Thousands"
+54,1952,632600000,NA,53912000,0.09,"Windsor, Town of",Windsor, Town of,Windsor,2013,14561,Gallons
+126,2016,611000034,579404034.2,31595999.8,0.05,"Windsor, Town of",Windsor, Town of,Windsor,2014,14664,Gallons
+179,2058,1.32E+09,1305064000,18936060,0.01,"Windsor, Town of",Windsor, Town of,Windsor,2015,14691,Gallons
