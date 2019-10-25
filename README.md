@@ -51,7 +51,7 @@ library(<package_name>)
 
 * **Cynthia Mann** - *Data Visualization* - [jambel77](https://github.com/jambel77)
 * **David Sciacca** - *Water Production Projection Model; README.md* - [dsciacca](https://github.com/dsciacca)
-* **Kellen Sorauf** - *Population Projection Model; AWWA Adherance Analysis* - 
+* **Kellen Sorauf** - *Population Projection Model; AWWA Adherance Analysis* - [mrsnellek](https://github.com/Mrsnellek)
 * **Lolita Mannik** - *Leak Analysis; Powerpoint Presentation* - [ChihuaWars](https://github.com/ChihuaWars)
 * **Yekaterina Bardash** - *Leak Data Preparation and Analysis; N-grams Analysis* - [ybardashRegis](https://github.com/ybardashRegis)
 
